@@ -51,11 +51,29 @@ main {
 footer {
 	position: absolute;
 	bottom: 0px;
-	padding-left: 5px;
+	width: 100%;
 /* 	background-color: rgba(50,50,50,0.5) */
+}
+.footer_links {
+	position: relative;
+	width: 30%;
+	float: left;
+	padding-left: 5px;
+}
+
+.footer_rechts {
+	position: relative;
+	width: 30%;
+	float: right;
+	padding-right: 5px;
+	text-align: right;
 }
 
 a {
-	color: blue;
+	color: gray;
 	text-decoration: none;
+}
+
+a:hover {
+	color: blue;
 }
