@@ -45,13 +45,17 @@ main {
     margin-bottom: 68px;
     margin-top: 40vh;
     text-align: center;
-    
     width: 90%;
 }
 	
-footer{
+footer {
 	position: absolute;
 	bottom: 0px;
-	left: 5px;
+	padding-left: 5px;
+/* 	background-color: rgba(50,50,50,0.5) */
 }
 
+a {
+		color: blue;
+		text-decoration: none;
+	}
