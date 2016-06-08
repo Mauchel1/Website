@@ -7,6 +7,11 @@ body {
 	min-height: 100%;
 }
 
+header {
+	width: 100%;
+	height: 50px;
+}
+
 .navigation {
 	position:absolute;
 	margin: 5px;
@@ -16,6 +21,18 @@ body {
 }
 
 .navigation:hover {
+  background-color: rgb(50,50,150);
+}
+
+.home {
+	position:absolute;
+	margin: 5px;
+	padding: 3px;
+	background-color: rgba(50,50,150,0.8);
+	left: 5px;
+}
+
+.home:hover {
   background-color: rgb(50,50,150);
 }
 
