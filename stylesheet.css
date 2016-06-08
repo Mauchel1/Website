@@ -26,14 +26,8 @@ header {
 
 .home {
 	position:absolute;
-	margin: 5px;
+	margin: 10px;
 	padding: 3px;
-	background-color: rgba(50,50,150,0.8);
-	left: 5px;
-}
-
-.home:hover {
-  background-color: rgb(50,50,150);
 }
 
 main {
@@ -53,14 +47,14 @@ footer {
 
 .footer_links {
 	position: relative;
-	width: 30%;
+	width: 70px;
 	float: left;
 	padding-left: 5px;
 }
 
 .footer_rechts {
 	position: relative;
-	width: 30%;
+	width: 160px;
 	float: right;
 	padding-right: 5px;
 	text-align: right;

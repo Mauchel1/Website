@@ -57,14 +57,14 @@ footer {
 
 .footer_links {
 	position: relative;
-	width: 30%;
+	width: 70px;
 	float: left;
 	padding-left: 5px;
 }
 
 .footer_rechts {
 	position: relative;
-	width: 30%;
+	width: 160px;
 	float: right;
 	padding-right: 5px;
 	text-align: right;
