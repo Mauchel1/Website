@@ -14,15 +14,36 @@ header {
 
 .navigation {
 	position:absolute;
-	margin: 5px;
-	padding: 3px;
+	margin: 15px;
+	padding: 5px;
 	background-color: rgba(50,50,150,0.8);
 	right: 5px;
+	text-align: right;
+	cursor: pointer;
 }
 
 .navigation:hover {
-  background-color: rgb(50,50,150);
+	background-color: rgb(150,50,150);
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+	display: none;
+}
+
+li a {
+  width: 150px;
+	text-align: left;
+	display: block;
+	padding: 4px;
+}
+
+li a:hover {
+  background-color: rgb(50,150,150);
+}
+
 
 .home {
 	position:absolute;

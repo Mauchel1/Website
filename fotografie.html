@@ -1,35 +1,32 @@
 <!DOCTYPE html>
 <html lang="de">
 
-
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
 		<meta charset="utf-8" />
-		<title>D. Friedrich</title>
-		<link rel="stylesheet" href ="stylesheet_mainpage.css" />
+		<title>D. Friedrich - Kontakt</title>
+		<link rel="stylesheet" href ="stylesheet.css" />
 	</head>
 
 	<body>
-
-		<div class="background">
-    </div> 
-    
-		<div class="background_overlay">
-    </div>
 		
-    <nav onclick="toggleNav()" class="navigation">
-      Menü
-			<ul id="hauptnav">
-				<li><a href="Fotografie.html"> Fotografie </a></li>
-				<li><a href="stuff.html"> stuff </a></li>
-				<li><a href="about_me.html"> Über mich </a></li>
-			</ul>
-    </nav>
-    
-    <main>
-      <h1>Hier entsteht meine Website.</h1>
-		</main>
-    
+		<header>
+			<nav onclick="toggleNav()" class="navigation">
+				Menü
+				<ul id="hauptnav">
+					<li><a href="Fotografie.html"> Fotografie </a></li>
+					<li><a href="stuff.html"> stuff </a></li>
+					<li><a href="about_me.html"> Über mich </a></li>
+				</ul>
+			</nav>
+			<nav class="home">
+				<a href="index.html"> <img src="home.png" width="30" height="30" 
+				onmouseover="src='go_home.png'" onmouseout="src='home.png'" onmousedown="src='home_pfeil.png'"
+				alt="homebutton" /> </a>
+			</nav>
+		</header>
+		
+		
 		<footer>
 			<div class="footer_links">
 				<p> <small> 
@@ -37,11 +34,11 @@
 				<br><a href="kontakt.html"> Kontakt </a> </small> </p>
 			</div>
 			<div class="footer_rechts">
-				<p> <small>   
+			<p> <small>   
 				<br>&copy Copyright by D. Friedrich</small> </p>
 			</div>
 		</footer>
-		
+
 		<script>
 			function toggleNav() {
 			if (document.getElementById("hauptnav").style.display.match ("block")) {
@@ -51,7 +48,6 @@
 				}
 			}
 		</script>
-	</body>
-	
+		
+ 	</body>
 </html>
-

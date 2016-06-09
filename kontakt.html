@@ -11,8 +11,13 @@
 	<body>
 		
 		<header>
-			<nav class="navigation">
+			<nav onclick="toggleNav()" class="navigation">
 				Menü
+				<ul id="hauptnav">
+					<li><a href="Fotografie.html"> Fotografie </a></li>
+					<li><a href="stuff.html"> stuff </a></li>
+					<li><a href="about_me.html"> Über mich </a></li>
+				</ul>
 			</nav>
 			<nav class="home">
 				<a href="index.html"> <img src="home.png" width="30" height="30" 
@@ -39,5 +44,15 @@
 			</div>
 		</footer>
 
+		<script>
+			function toggleNav() {
+			if (document.getElementById("hauptnav").style.display.match ("block")) {
+				document.getElementById("hauptnav").style.display = "none";
+			} else {
+				document.getElementById("hauptnav").style.display = "block";
+				}
+			}
+		</script>
+		
 	</body>
 </html>
