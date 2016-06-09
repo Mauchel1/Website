@@ -2,29 +2,56 @@
 <html lang="de">
 
 	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
 		<meta charset="utf-8" />
-		<title>TITEL</title>
+		<title>D. Friedrich - TODO</title>
 		<link rel="stylesheet" href ="stylesheet.css" />
+		<link rel="icon" href ="logo.png" />
 	</head>
 
 	<body>
+		
 		<header>
-			Seitenkopf
-			<nav>
-				wichtige Gruppe von Links (Hauptnavigation etc)
+			<nav onclick="toggleNav()" class="navigation">
+				Menü
+				<ul id="hauptnav">
+					<li><a href="fotografie.html"> Fotografie </a></li>
+					<li><a href="stuff.html"> stuff </a></li>
+					<li><a href="about_me.html"> Über mich </a></li>
+				</ul>
+			</nav>
+			<nav class="home">
+				<a href="index.html"> <img src="home.png" width="30" height="30" 
+				onmouseover="src='go_home.png'" onmouseout="src='home.png'" onmousedown="src='home_pfeil.png'"
+				alt="homebutton" /> </a>
 			</nav>
 		</header>
 		
 		<main>
-			Hauptinhalt der Seite
+		
 		</main>
 		
-		<aside>
-			für z.B. Sidebar
-		</aside>
-		
 		<footer>
-			impressum, alles unten auf der Seite
+			<div class="footer_links">
+				<p> <small> 
+				<a href="impressum.html"> Impressum </a>
+				<br><a href="kontakt.html"> Kontakt </a> </small> </p>
+			</div>
+			<div class="footer_rechts">
+			<p> <small>   
+				<br>&copy Copyright by D. Friedrich</small> </p>
+			</div>
 		</footer>
-	</body>
+
+		<script>
+			function toggleNav() {
+			if (document.getElementById("hauptnav").style.display.match ("block")) {
+				document.getElementById("hauptnav").style.display = "none";
+			} else {
+				document.getElementById("hauptnav").style.display = "block";
+				}
+			}
+		</script>
+		
+ 	</body>
 </html>
