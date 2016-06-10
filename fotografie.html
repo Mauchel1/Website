@@ -32,23 +32,23 @@
 				Diese Galerie entsteht in Kürze
 			</div>
 			<div class="galerie">
-				<div class="galeriecontainer">
+				<div id="c1" onclick="openLargePicture()" class="galeriecontainer">
 					<img src="images/thumb/P2202273.jpg" alt="TODO Bildbeschreibung einfügen" width="130" height="100" >
 					<div class="bildbeschreibung"> TODO Bildbeschreibung einfügen</div>
 				</div>
-				<div class="galeriecontainer">
+				<div id="c2" onclick="openLargePicture()" class="galeriecontainer">
 					<img src="images/thumb/P2202273.jpg" alt="TODO Bildbeschreibung einfügen" width="130" height="100" >
 					<div class="bildbeschreibung"> TODO Bildbeschreibung</div>
 				</div>
-				<div class="galeriecontainer">
+				<div id="c3" onclick="openLargePicture()" class="galeriecontainer">
 					<img src="images/thumb/P2202273.jpg" alt="TODO Bildbeschreibung einfügen" width="130" height="100" >
 					<div class="bildbeschreibung"> TODO</div>
 				</div>
-				<div class="galeriecontainer">
+				<div id="c4" onclick="openLargePicture()" class="galeriecontainer">
 					<img src="images/thumb/P2202273.jpg" alt="TODO Bildbeschreibung einfügen" width="130" height="100" >
 					<div class="bildbeschreibung"> TODO Bildbeschreibung einfügen</div>
 				</div>
-				<div class="galeriecontainer">
+				<div id="c5" onclick="openLargePicture()" class="galeriecontainer">
 					<img src="images/thumb/P2202273.jpg" alt="TODO Bildbeschreibung einfügen" width="130" height="100" >
 					<div class="bildbeschreibung"> TODO</div>
 				</div>
@@ -63,6 +63,9 @@
 			</div>
 		</main>
 		
+		<div id="galerievollbildhintergrund" onclick="closeLargePicture()" class="galerievollbildhintergrund">
+			
+		</div>
 		
 		<footer>
 			<div class="footer_links">
@@ -83,6 +86,12 @@
 			} else {
 				document.getElementById("hauptnav").style.display = "block";
 				}
+			}
+			function openLargePicture() {
+				document.getElementById("galerievollbildhintergrund").style.display = "block";
+			}
+			function closeLargePicture() {
+				document.getElementById("galerievollbildhintergrund").style.display = "none";
 			}
 		</script>
 		
