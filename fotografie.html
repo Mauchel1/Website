@@ -89,9 +89,15 @@
 			}
 			function openLargePicture() {
 				document.getElementById("galerievollbildhintergrund").style.display = "block";
+				var x = document.createElement("img");
+				x.setAttribute("src", "images/large/P2202273.jpg");
+				x.setAttribute("alt", "TODO Bildbeschreibung");
+				x.setAttribute("id", "largeimgID")
+				document.getElementById("galerievollbildhintergrund").appendChild(x);
 			}
 			function closeLargePicture() {
 				document.getElementById("galerievollbildhintergrund").style.display = "none";
+				document.getElementById("galerievollbildhintergrund").removeChild(document.getElementById("largeimgID"));
 			}
 		</script>
 		
