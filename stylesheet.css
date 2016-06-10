@@ -44,7 +44,6 @@ li a:hover {
   background-color: rgb(50,150,150);
 }
 
-
 .home {
 	position:absolute;
 	margin: 10px;
@@ -58,6 +57,41 @@ main {
 	padding-bottom: 68px;
 }
 	
+.galerieheader {
+	text-align: center;
+	padding: 15px;
+}
+
+.galeriecontainer {
+	margin: 3px;
+	border: 1px solid #ccc;
+	background-color: gray;
+	float: left;
+}
+
+.galeriecontainer:hover {
+	border: 1px solid #333;
+}
+
+.galeriecontainer:hover img {
+	opacity: 1;
+}
+
+.bildbeschreibung {
+	padding: 8px;
+	text-align: center;
+}
+
+.galeriecontainer img {
+	width: 100%;
+	opacity: 0.8;
+}
+	
+.galeriefooter {
+	clear: both;
+	padding: 15px;
+}	
+
 footer {
 	position: absolute;
 	bottom: 0px;
