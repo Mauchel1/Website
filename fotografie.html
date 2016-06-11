@@ -32,23 +32,23 @@
 				Diese Galerie entsteht in Kürze
 			</div>
 			<div class="galerie">
-				<div id="c1" onclick="openLargePicture()" class="galeriecontainer">
+				<div id="c1" onclick="openLargePicture('P2202273.jpg')" class="galeriecontainer">
 					<img src="images/thumb/P2202273.jpg" alt="TODO Bildbeschreibung einfügen" width="130" height="100" >
 					<div class="bildbeschreibung"> TODO Bildbeschreibung einfügen</div>
 				</div>
-				<div id="c2" onclick="openLargePicture()" class="galeriecontainer">
-					<img src="images/thumb/P2202273.jpg" alt="TODO Bildbeschreibung einfügen" width="130" height="100" >
+				<div id="c2" onclick="openLargePicture('P2262184.jpg')" class="galeriecontainer">
+					<img src="images/thumb/P2262184.jpg" alt="TODO Bildbeschreibung einfügen" width="130" height="100" >
 					<div class="bildbeschreibung"> TODO Bildbeschreibung</div>
 				</div>
-				<div id="c3" onclick="openLargePicture()" class="galeriecontainer">
+				<div id="c3" onclick="openLargePicture('P2202273.jpg')" class="galeriecontainer">
 					<img src="images/thumb/P2202273.jpg" alt="TODO Bildbeschreibung einfügen" width="130" height="100" >
 					<div class="bildbeschreibung"> TODO</div>
 				</div>
-				<div id="c4" onclick="openLargePicture()" class="galeriecontainer">
-					<img src="images/thumb/P2202273.jpg" alt="TODO Bildbeschreibung einfügen" width="130" height="100" >
+				<div id="c4" onclick="openLargePicture('P2282698.jpg')" class="galeriecontainer">
+					<img src="images/thumb/P2282698.jpg" alt="TODO Bildbeschreibung einfügen" width="130" height="100" >
 					<div class="bildbeschreibung"> TODO Bildbeschreibung einfügen</div>
 				</div>
-				<div id="c5" onclick="openLargePicture()" class="galeriecontainer">
+				<div id="c5" onclick="openLargePicture('P2202273.jpg')" class="galeriecontainer">
 					<img src="images/thumb/P2202273.jpg" alt="TODO Bildbeschreibung einfügen" width="130" height="100" >
 					<div class="bildbeschreibung"> TODO</div>
 				</div>
@@ -87,10 +87,11 @@
 				document.getElementById("hauptnav").style.display = "block";
 				}
 			}
-			function openLargePicture() {
+			function openLargePicture(geklicktessBild) {
 				document.getElementById("galerievollbildhintergrund").style.display = "block";
 				var x = document.createElement("img");
-				x.setAttribute("src", "images/large/P2202273.jpg");
+				var y = "images/large/" + geklicktessBild;
+				x.setAttribute("src", y);
 				x.setAttribute("alt", "TODO Bildbeschreibung");
 				x.setAttribute("id", "largeimgID")
 				document.getElementById("galerievollbildhintergrund").appendChild(x);
