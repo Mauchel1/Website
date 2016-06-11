@@ -63,9 +63,14 @@ main {
 	padding: 15px;
 }
 
+.galerie {
+	float: left;
+}
+
 .galeriecontainer {
 	margin: 3px;
 	border: 1px solid #ccc;
+	border-radius: 8px;
 	background-color: gray;
 	float: left;
 }
@@ -84,8 +89,8 @@ main {
 }
 
 .galeriecontainer img {
-	width: 100%;
 	opacity: 0.8;
+	border-radius: 8px 8px 0 0;
 }
 
 .galerievollbildhintergrund {	
