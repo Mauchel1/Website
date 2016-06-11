@@ -20,6 +20,7 @@ header {
 	right: 5px;
 	text-align: right;
 	cursor: pointer;
+	z-index: 2;
 }
 
 .navigation:hover {
