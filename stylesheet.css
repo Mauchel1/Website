@@ -91,6 +91,7 @@ main {
 .galerievollbildhintergrund {	
 	display: none;
 	position: fixed;
+	padding-top: 100px;
 	left: 0;
 	top: 0;
 	z-index: 1;
@@ -100,6 +101,13 @@ main {
 	background-color: rgb(0,0,0);
 	background-color: rgba(0,0,0,0.9);
 }	
+
+.galerievollbildhintergrund img{
+	margin: auto;
+	width: 80%;
+	display: block;
+	max-width: 700px;
+}
 	
 .galeriefooter {
 	clear: both;
@@ -136,4 +144,10 @@ a {
 
 a:hover {
 	color: blue;
+}
+
+@media only screen and (max-width: 700px){
+	.galerievollbildhintergrund img{
+		width: 100%;
+	}
 }
