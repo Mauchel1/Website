@@ -64,7 +64,8 @@
 		</main>
 		
 		<div id="galerievollbildhintergrund" onclick="closeLargePicture()" class="galerievollbildhintergrund">
-			
+			<div id="galerievollbildcontainer" class="galerievollbildcontainer">
+			</div>
 		</div>
 		
 		<footer>
@@ -87,18 +88,18 @@
 				document.getElementById("hauptnav").style.display = "block";
 				}
 			}
-			function openLargePicture(geklicktessBild) {
+			function openLargePicture(geklicktesBild) {
 				document.getElementById("galerievollbildhintergrund").style.display = "block";
 				var x = document.createElement("img");
-				var y = "images/large/" + geklicktessBild;
+				var y = "images/large/" + geklicktesBild;
 				x.setAttribute("src", y);
 				x.setAttribute("alt", "TODO Bildbeschreibung");
 				x.setAttribute("id", "largeimgID");
-				document.getElementById("galerievollbildhintergrund").appendChild(x);
+				document.getElementById("galerievollbildcontainer").appendChild(x);
 			}
 			function closeLargePicture() {
 				document.getElementById("galerievollbildhintergrund").style.display = "none";
-				document.getElementById("galerievollbildhintergrund").removeChild(document.getElementById("largeimgID"));
+				document.getElementById("galerievollbildcontainer").removeChild(document.getElementById("largeimgID"));
 			}
 		</script>
 		

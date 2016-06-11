@@ -91,7 +91,7 @@ main {
 .galerievollbildhintergrund {	
 	display: none;
 	position: fixed;
-	padding-top: 100px;
+	padding-top: 5%;
 	left: 0;
 	top: 0;
 	z-index: 1;
@@ -104,9 +104,16 @@ main {
 
 .galerievollbildhintergrund img{
 	margin: auto;
-	width: 80%;
 	display: block;
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.galerievollbildcontainer {
 	max-width: 700px;
+	margin: auto;
+	width: 80%;
+	height: 80%;
 }
 	
 .galeriefooter {
@@ -147,7 +154,7 @@ a:hover {
 }
 
 @media only screen and (max-width: 700px){
-	.galerievollbildhintergrund img{
+	.galerievollbildcontainer {
 		width: 100%;
 	}
 }
