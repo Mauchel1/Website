@@ -65,14 +65,16 @@ main {
 
 .galerie {
 	float: left;
+	max-width: 1000px;
 }
 
 .galeriecontainer {
-	margin: 3px;
+	margin: 2px;
 	border: 1px solid #ccc;
 	border-radius: 8px;
 	background-color: gray;
 	float: left;
+	width: 24%;
 }
 
 .galeriecontainer:hover {
