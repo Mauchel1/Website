@@ -66,7 +66,7 @@ main {
 .galerie {
 	margin: auto;
 	display: block;
-	max-width: 1000px;
+	max-width: 1400px;
 }
 
 .galeriecontainer {
@@ -75,7 +75,7 @@ main {
 	border-radius: 8px;
 	background-color: gray;
 	float: left;
-	width: 24%;
+	width: 16%;
 	height: 150px; /* wird eh von JS überschrieben */
 }
 
@@ -165,6 +165,12 @@ a {
 
 a:hover {
 	color: blue;
+}
+
+@media (max-width: 1080px) {
+	.galeriecontainer {
+	width: 24%;
+	}
 }
 
 @media (max-width: 720px) {
