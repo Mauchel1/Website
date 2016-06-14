@@ -9,7 +9,7 @@
 		<link rel="icon" href ="logo.png" />
 	</head>
 
-	<body>
+	<body onload="bildcontainerbreite()" onresize="bildcontainerbreite()">
 		
 		<header>
 			<nav onclick="toggleNav()" class="navigation">
@@ -101,6 +101,13 @@
 		</footer>
 
 		<script>
+			function bildcontainerbreite() {
+			var containerbreite = document.getElementById("c1").offsetWidth;
+			for(var i=0, len=document.getElementsByClassName("galeriecontainer").length; i<len; i++)
+				{
+					document.getElementsByClassName("galeriecontainer")[i].style.height = containerbreite*0.63 + "px";
+				}
+			}
 			function toggleNav() {
 			if (document.getElementById("hauptnav").style.display.match ("block")) {
 				document.getElementById("hauptnav").style.display = "none";
