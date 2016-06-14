@@ -64,8 +64,8 @@ main {
 }
 
 .galerie {
-	float: left;
 	max-width: 1000px;
+	float: left;
 }
 
 .galeriecontainer {
@@ -86,6 +86,7 @@ main {
 }
 
 .bildbeschreibung {
+	display: none;
 	padding: 8px;
 	text-align: center;
 }
