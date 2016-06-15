@@ -9,7 +9,7 @@
 		<link rel="icon" href ="logo.png" />
 	</head>
 
-	<body onload="bildcontainerbreite()" onresize="bildcontainerbreite()">
+	<body onkeydown="keypressed(event)" onload="bildcontainerbreite()" onresize="bildcontainerbreite()">
 		
 		<header>
 			<nav onclick="toggleNav()" class="navigation">
@@ -115,6 +115,17 @@
 				x.setAttribute("alt", "TODO Bildbeschreibung");
 				x.setAttribute("id", "largeimgID");
 				document.getElementById("galerievollbildcontainer").appendChild(x);
+			}
+			function keypressed(event) {
+				if (document.getElementById("galerievollbildhintergrund").style.display == "block") {
+					var x = event.keyCode;
+					if (x == 37) {
+						alert ("You pressed the left key!");
+					}
+					else if (x == 39) {
+						alert ("You pressed the right key!");
+					}
+				}
 			}
 			function closeLargePicture() {
 				document.getElementById("galerievollbildhintergrund").style.display = "none";
