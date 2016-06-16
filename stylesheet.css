@@ -124,10 +124,29 @@ main {
 }
 
 .galerievollbildcontainer {
+	position: relative;
 	max-width: 1900px;
 	margin: auto;
 	width: 80%;
 	height: 80%;
+}
+ 
+#pl {
+	position: absolute;
+	display: block;
+	width: 10%;
+	left: 0;
+	top: 20%;
+	max-width: 64px;
+}
+
+#pr {
+	position: absolute;
+	display: block;
+	width: 10%;
+	right: 0;
+	top: 20%;
+	max-width: 64px;
 }
 	
 .galeriefooter {
