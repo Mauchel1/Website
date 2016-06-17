@@ -77,8 +77,8 @@
 		
 		<div id="galerievollbildhintergrund" onclick="closeLargePicture()" class="galerievollbildhintergrund">
 			<div id="galerievollbildcontainer" class="galerievollbildcontainer">
-				<img id="pl" src="pfeil_links.png">
-				<img id="pr" src="pfeil_rechts.png">
+				<img id="pl" onclick="lastPicture()" src="pfeil_links.png">
+				<img id="pr" onclick="nextPicture()" src="pfeil_rechts.png">
 			</div>
 		</div>
 		
@@ -119,8 +119,10 @@
 				document.getElementById("galerievollbildcontainer").appendChild(x);
 			}
 			function nextPicture() {
+				nichtZumachen = 1;
 			}
 			function lastPicture() {
+				nichtZumachen = 1;
 			}
 			function keypressed(event) {
 				if (document.getElementById("galerievollbildhintergrund").style.display == "block") {
@@ -134,7 +136,8 @@
 				}
 			}
 			var xDown = null;                                                        
-			var yDown = null;                                                        
+			var yDown = null;   
+			var nichtZumachen = null;
 		
 			document.addEventListener('touchstart', handleTouchStart, false);        
 			document.addEventListener('touchmove', handleTouchMove, false);
@@ -171,8 +174,11 @@
 				yDown = null;                                             
 			};
 			function closeLargePicture() {
+				if (nichtZumachen == null){
 				document.getElementById("galerievollbildhintergrund").style.display = "none";
 				document.getElementById("galerievollbildcontainer").removeChild(document.getElementById("largeimgID"));
+				}
+				nichtZumachen = null;
 			}
 		</script>
 		
