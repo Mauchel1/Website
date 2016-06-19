@@ -33,6 +33,7 @@ function openLargePicture(geklicktesBild) {
 
 function nextPicture() {
 	nichtZumachen = 1;
+	document.getElementById("largeimgID").src = "images/large/" + "P2212922.jpg";
 }
 
 function lastPicture() {
