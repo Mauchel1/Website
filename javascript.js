@@ -32,13 +32,13 @@ function openLargePicture(geklicktesBild) {
 }
 
 function nextPicture() {
-	nichtZumachen = 1;
-	document.getElementById("largeimgID").src = "images/large/" + "P2212922.jpg";
-	var aktuellesBild = document.getElementById("largeimgID").src;
-	lastSlash = aktuellesBild.lastIndexOf("/");
-	aktuellesBild = aktuellesBild.slice(lastSlash+1);
-	if (1) {
-		alert (aktuellesBild);
+	nichtZumachen = 1;		//damit Bild nicht durch funktion closeLargePicture geschlossen wird
+	var aktuellesBild = document.getElementById("largeimgID").src;		//aktuelles src vom Bild bekommen
+	lastSlash = aktuellesBild.lastIndexOf("/");		//letztes Slash im String finden
+	aktuellesBild = aktuellesBild.slice(lastSlash+1);		//alles vor dem Slash abschneiden (Bild bleibt über)
+	var bildliste = document.getElementsByClassName("galeriecontainer");
+	if (bildliste[1].childNodes[1].src.includes(aktuellesBild)) { //findet das 2. Bild
+		alert ("found");
 	}
 }
 
