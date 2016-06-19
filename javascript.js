@@ -34,6 +34,12 @@ function openLargePicture(geklicktesBild) {
 function nextPicture() {
 	nichtZumachen = 1;
 	document.getElementById("largeimgID").src = "images/large/" + "P2212922.jpg";
+	var aktuellesBild = document.getElementById("largeimgID").src;
+	lastSlash = aktuellesBild.lastIndexOf("/");
+	aktuellesBild = aktuellesBild.slice(lastSlash+1);
+	if (1) {
+		alert (aktuellesBild);
+	}
 }
 
 function lastPicture() {
