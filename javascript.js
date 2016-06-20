@@ -31,7 +31,7 @@ function openLargePicture(geklicktesBild) {
 	document.getElementById("galerievollbildcontainer").appendChild(x);
 }
 
-function nextPicture() {
+function ChangePicture(m) {
 	nichtZumachen = 1;		//damit Bild nicht durch funktion closeLargePicture geschlossen wird
 	var aktuellesBild = document.getElementById("largeimgID").src;		//aktuelles src vom Bild bekommen
 	lastSlash = aktuellesBild.lastIndexOf("/");		//letztes Slash im String finden
@@ -40,7 +40,7 @@ function nextPicture() {
 	var listnumber = 0;
 	for (listnumber = 0; listnumber < bildliste.length; listnumber++) { 	//Bildliste durchgehen und Bild finden
 		if (bildliste[listnumber].childNodes[1].src.includes(aktuellesBild)) { 	//selektiert das aktuelle Bild
-			var x = bildliste[listnumber+1].childNodes[1].src;		//gesamter Pfad
+			var x = bildliste[listnumber+m].childNodes[1].src;		//gesamter Pfad
 			lastSlash = x.lastIndexOf("/");		//letztes Slash im String finden
 			x = x.slice(lastSlash+1);		//alles vor dem Slash abschneiden (Bild bleibt über)
 			document.getElementById("largeimgID").src = "images/large/" + x;		//Zusammensetzen
@@ -50,7 +50,11 @@ function nextPicture() {
 }
 
 function lastPicture() {
-	nichtZumachen = 1;
+	ChangePicture(-1);
+}
+
+function nextPicture() {
+	ChangePicture(1);
 }
 
 function keypressed(event) {
