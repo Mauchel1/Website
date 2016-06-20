@@ -37,8 +37,15 @@ function nextPicture() {
 	lastSlash = aktuellesBild.lastIndexOf("/");		//letztes Slash im String finden
 	aktuellesBild = aktuellesBild.slice(lastSlash+1);		//alles vor dem Slash abschneiden (Bild bleibt über)
 	var bildliste = document.getElementsByClassName("galeriecontainer");
-	if (bildliste[1].childNodes[1].src.includes(aktuellesBild)) { //findet das 2. Bild
-		alert ("found");
+	var listnumber = 0;
+	for (listnumber = 0; listnumber < bildliste.length; listnumber++) { 	//Bildliste durchgehen und Bild finden
+		if (bildliste[listnumber].childNodes[1].src.includes(aktuellesBild)) { 	//selektiert das aktuelle Bild
+			var x = bildliste[listnumber+1].childNodes[1].src;		//gesamter Pfad
+			lastSlash = x.lastIndexOf("/");		//letztes Slash im String finden
+			x = x.slice(lastSlash+1);		//alles vor dem Slash abschneiden (Bild bleibt über)
+			document.getElementById("largeimgID").src = "images/large/" + x;		//Zusammensetzen
+			break;
+		}
 	}
 }
 
