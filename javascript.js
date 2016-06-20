@@ -40,7 +40,15 @@ function ChangePicture(m) {
 	var listnumber = 0;
 	for (listnumber = 0; listnumber < bildliste.length; listnumber++) { 	//Bildliste durchgehen und Bild finden
 		if (bildliste[listnumber].childNodes[1].src.includes(aktuellesBild)) { 	//selektiert das aktuelle Bild
-			var x = bildliste[listnumber+m].childNodes[1].src;		//gesamter Pfad
+			if (listnumber == 0 && m == -1) {		//erstes Bild der Seite und nach links
+				var x = bildliste[bildliste.length-1].childNodes[1].src;		//gesamter Pfad vom letztes Bild
+			}
+			else if (listnumber == bildliste.length-1 && m == 1) {		//Letztes Bild der Seite und nach rechts
+				var x = bildliste[0].childNodes[1].src;		//gesamter Pfad vom ersten Bild
+			}
+			else {
+				var x = bildliste[listnumber+m].childNodes[1].src;		//gesamter Pfad vom Bild
+			}
 			lastSlash = x.lastIndexOf("/");		//letztes Slash im String finden
 			x = x.slice(lastSlash+1);		//alles vor dem Slash abschneiden (Bild bleibt über)
 			document.getElementById("largeimgID").src = "images/large/" + x;		//Zusammensetzen
