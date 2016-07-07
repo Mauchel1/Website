@@ -45,6 +45,55 @@ li a:hover {
   background-color: rgb(50,150,150);
 }
 
+.fotoNavWrapper {
+	width: 80%;
+	margin: auto;
+}
+
+ul.fotonav {
+	display: block;
+}
+
+ul.fotonav li {
+	float: left;
+}
+
+ul.fotonav li a, .dropbtn {
+	color: red;
+	text-align: center;
+	padding: 10px 12px;
+	text-decoration: none;
+}
+
+li.dropdown {
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 2;
+}
+
+.dropdown-content a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	text-align: left;
+}
+
+.dropdown-content a:hover {
+	background-color: #f1f1f1
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
 .home {
 	position:absolute;
 	margin: 10px;
@@ -184,6 +233,10 @@ a {
 
 a:hover {
 	color: blue;
+}
+
+.clear {
+	clear: both;
 }
 
 @media (max-width: 1080px) {
