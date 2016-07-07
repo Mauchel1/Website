@@ -9,7 +9,7 @@ body {
 
 header {
 	width: 100%;
-	height: 50px;
+	height: 90px;
 }
 
 .navigation {
@@ -46,12 +46,14 @@ li a:hover {
 }
 
 .fotoNavWrapper {
-	width: 80%;
+	width: 100%;
 	margin: auto;
+	padding-top: 50px;
 }
 
 ul.fotonav {
 	display: block;
+	background-color: gray;
 }
 
 ul.fotonav li {
@@ -59,6 +61,7 @@ ul.fotonav li {
 }
 
 ul.fotonav li a, .dropbtn {
+  width: 100px;
 	color: red;
 	text-align: center;
 	padding: 10px 12px;
@@ -73,7 +76,7 @@ li.dropdown {
 	display: none;
 	position: absolute;
 	background-color: #f9f9f9;
-	min-width: 160px;
+	min-width: 100px;
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 	z-index: 2;
 }
