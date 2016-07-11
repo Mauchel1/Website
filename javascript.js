@@ -21,12 +21,12 @@ function toggleNav() {
 	}
 }
 
-function openLargePicture(geklicktesBild) {
+function openLargePicture(geklicktesBild, containernummer) {
 	document.getElementById("galerievollbildhintergrund").style.display = "block";
 	var x = document.createElement("img");
 	var y = "images/large/" + geklicktesBild;
 	x.setAttribute("src", y);
-	x.setAttribute("alt", "TODO Bildbeschreibung");
+	x.setAttribute("alt", document.getElementById(containernummer).getElementsByTagName('img')[0].alt);
 	x.setAttribute("id", "largeimgID");
 	document.getElementById("galerievollbildcontainer").appendChild(x);
 	document.getElementById("vollbildunterschrift").innerHTML = x.alt;
@@ -43,16 +43,20 @@ function ChangePicture(m) {
 		if (bildliste[listnumber].childNodes[1].src.includes(aktuellesBild)) { 	//selektiert das aktuelle Bild
 			if (listnumber == 0 && m == -1) {		//erstes Bild der Seite und nach links
 				var x = bildliste[bildliste.length-1].childNodes[1].src;		//gesamter Pfad vom letztes Bild
+				var y = bildliste[bildliste.length-1].childNodes[1].alt;
 			}
 			else if (listnumber == bildliste.length-1 && m == 1) {		//Letztes Bild der Seite und nach rechts
 				var x = bildliste[0].childNodes[1].src;		//gesamter Pfad vom ersten Bild
+				var y = bildliste[0].childNodes[1].alt;
 			}
 			else {
 				var x = bildliste[listnumber+m].childNodes[1].src;		//gesamter Pfad vom Bild
+				var y = bildliste[listnumber+m].childNodes[1].alt;
 			}
 			lastSlash = x.lastIndexOf("/");		//letztes Slash im String finden
 			x = x.slice(lastSlash+1);		//alles vor dem Slash abschneiden (Bild bleibt über)
 			document.getElementById("largeimgID").src = "images/large/" + x;		//Zusammensetzen
+			document.getElementById("vollbildunterschrift").innerHTML = y;
 			break;
 		}
 	}
