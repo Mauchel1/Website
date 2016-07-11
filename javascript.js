@@ -29,6 +29,7 @@ function openLargePicture(geklicktesBild) {
 	x.setAttribute("alt", "TODO Bildbeschreibung");
 	x.setAttribute("id", "largeimgID");
 	document.getElementById("galerievollbildcontainer").appendChild(x);
+	document.getElementById("vollbildunterschrift").innerHTML = x.alt;
 }
 
 function ChangePicture(m) {

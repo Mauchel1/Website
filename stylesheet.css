@@ -190,6 +190,11 @@ main {
 	width: 80%;
 	height: 80%;
 }
+
+.bildunterschrift {
+	color: white;
+	text-align: center;
+}
  
 #pl {
 	position: absolute;
