@@ -184,6 +184,7 @@ main {
 }
 
 .galerievollbildcontainer {
+	display: flex;
 	position: relative;
 	max-width: 1900px;
 	margin: auto;
