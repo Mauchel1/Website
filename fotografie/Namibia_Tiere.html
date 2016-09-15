@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="de">
+
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+		<meta charset="utf-8" />
+		<title>D. Friedrich - Fotografie</title>
+		<link rel="stylesheet" href ="stylesheet.css" />
+		<link rel="icon" href ="logo.png" />
+		<script language="javascript" type="text/javascript" src="javascript.js"></script>
+	</head>
+
+	<body onkeydown="keypressed(event)" onload="bildcontainerbreite()" onresize="bildcontainerbreite()">
+		
+		<header>
+			<div class="seitentitel">
+				Fotografie
+			</div>
+			<nav onclick="toggleNav()" class="navigation">
+				Menü
+				<ul id="hauptnav">
+					<li><a href="fotografie.html"> Fotografie </a></li>
+					<li><a href="stuff.html"> stuff </a></li>
+					<li><a href="about_me.html"> Über mich </a></li>
+				</ul>
+			</nav>
+			<nav class="home">
+				<a href="index.html"> <img src="home.png" width="30" height="30" 
+				onmouseover="src='go_home.png'" onmouseout="src='home.png'" onmousedown="src='home_pfeil.png'"
+				alt="homebutton" /> </a>
+			</nav>
+			<div class="fotoNavWrapper">
+				<nav>
+					<ul class="fotonav">
+						<li class="dropdown">
+							<a href="#" class="dropbtn">Hamburg</a>
+							<div class="dropdown-content">
+								<a href="#">Botanischer Garten</a>
+								<a href="#">Winter</a>
+							</div>
+						</li>
+						<li class="dropdown">
+							<a href="#" class="dropbtn">Namibia</a>
+							<div class="dropdown-content">
+								<a href="#">Tiere</a>
+								<a href="#">Ghosttown</a>
+								<a href="#">Verschiedenes</a>
+							</div>
+						<li><a href="Schweden#">Schweden</a></li>
+						<li><a href="Zoo_Rostock#">Zoo Rostock</a></li>
+						<li><a href="Allerlei.html">Allerlei</a></li>
+						</li>
+						<div class="clear"></div>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		
+		<main>
+			<div class="galerieheader">
+				Diese Galerie entsteht in Kürze
+			</div>
+			<div class="galeriefooter">
+				<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Lizenzvertrag" 
+					style="border-width:0" src="cc.png" /></a>
+				<br />Alle Bilder sind von <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">D. Friedrich</span> 
+				lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+				Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International Lizenz</a>.
+				<br> Für nähere Infos zur Lizenz auf das Lizenzlogo klicken. 
+			</div>
+		</main>
+		
+		<div id="galerievollbildhintergrund" onclick="closeLargePicture()" class="galerievollbildhintergrund">
+			<div id="galerievollbildcontainer" class="galerievollbildcontainer">
+				<img id="pl" onclick="lastPicture()" src="pfeil_links.png">
+				<img id="pr" onclick="nextPicture()" src="pfeil_rechts.png">
+			</div>
+			<div class="bildunterschrift" id="vollbildunterschrift">
+			</div>
+		</div>
+		
+		<footer>
+			<div class="footer_links">
+				<p> <small> 
+				<a href="impressum.html"> Impressum </a>
+				<br><a href="kontakt.html"> Kontakt </a> </small> </p>
+			</div>
+			<div class="footer_rechts">
+			<p> <small>   
+				<br>&copy Copyright by D. Friedrich</small> </p>
+			</div>
+		</footer>
+
+ 	</body>
+</html>
