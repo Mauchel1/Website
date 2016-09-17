@@ -21,10 +21,10 @@ function toggleNav() {
 	}
 }
 
-function openLargePicture(geklicktesBild, containernummer) {
+function openLargePicture(pfad, geklicktesBild, containernummer) {
 	document.getElementById("galerievollbildhintergrund").style.display = "block";
 	var x = document.createElement("img");
-	var y = "images/large/" + geklicktesBild;
+	var y = pfad + "/large/" + geklicktesBild;
 	x.setAttribute("src", y);
 	x.setAttribute("alt", document.getElementById(containernummer).getElementsByTagName('img')[0].alt);
 	x.setAttribute("id", "largeimgID");
@@ -54,8 +54,11 @@ function ChangePicture(m) {
 				var y = bildliste[listnumber+m].childNodes[1].alt;
 			}
 			lastSlash = x.lastIndexOf("/");		//letztes Slash im String finden
+			vorlastSlash = x.lastIndexOf("/", lastSlash-1);		//vorletzten Slash im String finden
+			firstSlash = x.lastIndexOf("/", vorlastSlash-1);		//erstes Slash im String finden
+			pfad = x.slice(firstSlash+1, vorlastSlash);
 			x = x.slice(lastSlash+1);		//alles vor dem Slash abschneiden (Bild bleibt über)
-			document.getElementById("largeimgID").src = "images/large/" + x;		//Zusammensetzen
+			document.getElementById("largeimgID").src = pfad + "/large/" + x;		//Zusammensetzen
 			document.getElementById("vollbildunterschrift").innerHTML = y;
 			break;
 		}
