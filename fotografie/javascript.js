@@ -125,3 +125,7 @@ function closeLargePicture() {
 	}
 	nichtZumachen = null;
 }
+
+function setRating(x){
+	alert ("setRating: " + x);
+}
