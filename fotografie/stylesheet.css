@@ -194,8 +194,10 @@ main {
 
 .bildunterschrift {
 	color: white;
+	margin: auto;
 	text-align: center;
 	padding-top: 15px;
+	width: 100%;
 }
  
 #pl {

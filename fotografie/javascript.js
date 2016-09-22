@@ -40,6 +40,7 @@ function openLargePicture(pfad, geklicktesBild, containernummer) {
 
 function largePictureGeladen(){
 	var x = document.getElementById("largeimgID");
+	document.getElementsByClassName("bildunterschrift")[0].style.width = (x.width) + "px";
 	var outwidthcontainer = document.getElementById("galerievollbildcontainer").offsetWidth;
 	var inwidthcontainer = x.width;
 	var widthwindow = window.innerWidth;
