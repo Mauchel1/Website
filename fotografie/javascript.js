@@ -5,6 +5,11 @@ var xDown = null;
 var yDown = null;   
 var nichtZumachen = null;
 
+function resize(){
+	bildcontainerbreite();
+	largePictureGeladen();
+}
+
 function bildcontainerbreite() {
 	var containerbreite = document.getElementById("c1").offsetWidth;
 	for(var i=0, len=document.getElementsByClassName("galeriecontainer").length; i<len; i++)
@@ -29,7 +34,23 @@ function openLargePicture(pfad, geklicktesBild, containernummer) {
 	x.setAttribute("alt", document.getElementById(containernummer).getElementsByTagName('img')[0].alt);
 	x.setAttribute("id", "largeimgID");
 	document.getElementById("galerievollbildcontainer").appendChild(x);
+	x.setAttribute("onload", "largePictureGeladen()");
 	document.getElementById("vollbildunterschrift").innerHTML = x.alt;
+}
+
+function largePictureGeladen(){
+	var x = document.getElementById("largeimgID");
+	var outwidthcontainer = document.getElementById("galerievollbildcontainer").offsetWidth;
+	var inwidthcontainer = x.width;
+	var widthwindow = window.innerWidth;
+	var pfeilwidth = document.getElementById("pl").width;
+	if ((widthwindow - inwidthcontainer) > (pfeilwidth * 2)){		//Pfeile im Bild oder direkt daneben
+		document.getElementById("pl").style.left = ((outwidthcontainer - inwidthcontainer)/2)-pfeilwidth  + "px";
+		document.getElementById("pr").style.right = ((outwidthcontainer - inwidthcontainer)/2)-pfeilwidth  + "px";
+	} else {
+		document.getElementById("pl").style.left = (outwidthcontainer - inwidthcontainer)/2  + "px";
+		document.getElementById("pr").style.right = (outwidthcontainer - inwidthcontainer)/2  + "px";
+	}
 }
 
 function ChangePicture(m) {
