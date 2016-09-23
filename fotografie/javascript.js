@@ -154,5 +154,10 @@ function setRating(Rating){
 	var aktuellesBild = document.getElementById("largeimgID").src;		//aktuelles src vom Bild bekommen
 	lastSlash = aktuellesBild.lastIndexOf("/");		//letztes Slash im String finden
 	aktuellesBild = aktuellesBild.slice(lastSlash+1);		//alles vor dem Slash abschneiden (Bild bleibt über)
-	alert ("setRating: " + Rating + "  aktuellesBild " + aktuellesBild);
+	alert ("setRating: " + Rating + "  aktuellesBild: " + aktuellesBild + "  IP: " + userip);
+}
+
+function getRating(rate){
+	document.getElementById("star"+rate).className = 'active';
+	document.getElementById("star"+rate).className = '';	
 }

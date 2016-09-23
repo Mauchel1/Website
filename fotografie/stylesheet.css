@@ -246,11 +246,10 @@ main {
     text-shadow: 0 0 5px #e2e2e2;
 }
 
-.rating span:active,
-.rating span:active ~ span {
+.rating span.active,
+.active ~ span {
     color: yellow;
 }
-
 
 footer {
 	position: absolute;
