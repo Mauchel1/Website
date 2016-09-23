@@ -52,6 +52,7 @@ function largePictureGeladen(){
 		document.getElementById("pl").style.left = (outwidthcontainer - inwidthcontainer)/2  + "px";
 		document.getElementById("pr").style.right = (outwidthcontainer - inwidthcontainer)/2  + "px";
 	}
+	document.getElementsByClassName("rating")[0].style.marginRight = (widthwindow - inwidthcontainer)/2 + "px";
 }
 
 function ChangePicture(m) {
@@ -148,6 +149,10 @@ function closeLargePicture() {
 	nichtZumachen = null;
 }
 
-function setRating(x){
-	alert ("setRating: " + x);
+function setRating(Rating){
+	nichtZumachen = 1;
+	var aktuellesBild = document.getElementById("largeimgID").src;		//aktuelles src vom Bild bekommen
+	lastSlash = aktuellesBild.lastIndexOf("/");		//letztes Slash im String finden
+	aktuellesBild = aktuellesBild.slice(lastSlash+1);		//alles vor dem Slash abschneiden (Bild bleibt über)
+	alert ("setRating: " + Rating + "  aktuellesBild " + aktuellesBild);
 }

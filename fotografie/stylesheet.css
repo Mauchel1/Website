@@ -165,7 +165,7 @@ main {
 .galerievollbildhintergrund {	
 	display: none;
 	position: fixed;
-	padding-top: 5%;
+	padding-top: 2.5%;
 	left: 0;
 	top: 0;
 	z-index: 3;
@@ -189,13 +189,13 @@ main {
 	max-width: 1900px;
 	margin: auto;
 	width: 80%;
-	height: 80%;
+	height: 85%;
 }
 
 .bildunterschrift {
 	color: white;
 	margin: auto;
-	text-align: center;
+	text-align: left;
 	padding-top: 15px;
 	width: 100%;
 }
