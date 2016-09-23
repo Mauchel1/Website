@@ -195,7 +195,7 @@ main {
 .bildunterschrift {
 	color: white;
 	margin: auto;
-	text-align: left;
+	text-align: center;
 	padding-top: 15px;
 	width: 100%;
 }
@@ -224,6 +224,7 @@ main {
 }	
 
 .rating {
+		display: none;
     unicode-bidi: bidi-override;
     direction: rtl;
 		float: right;
