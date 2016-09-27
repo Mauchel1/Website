@@ -119,7 +119,7 @@ int main(int argc, char **argv) {
 							bildnameende = strstr(bildnameanfang, "</rdf:li>");
 							if ( bildnameende != NULL){
 								strncpy(bildbeschreibung,bildnameanfang,(bildnameende - bildnameanfang));
-								bildbeschreibung[(bildnameende - bildnameanfang)-1]=0;
+								bildbeschreibung[(bildnameende - bildnameanfang)]=0;
 							} else {
 								cout << "Bildbeschreibungsende nicht gefunden" << endl;
 								strcpy(bildbeschreibung,"Bildbeschreibung einfügen");
