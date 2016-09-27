@@ -5,11 +5,13 @@ body {
 	width: 100%;
 	height: auto;
 	min-height: 100%;
+    background-color : #B0C4DE;
 }
 
 header {
 	width: 100%;
 	min-height: 50px;
+    background-color: #82CABE;
 }
 
 .seitentitel{
@@ -22,9 +24,10 @@ header {
 
 .navigation {
 	position:absolute;
+    color: #001663;
 	margin: 15px;
 	padding: 5px;
-	background-color: rgba(50,50,150,0.8);
+	background-color: rgb(77,124,162);
 	right: 5px;
 	text-align: right;
 	cursor: pointer;
@@ -32,7 +35,15 @@ header {
 }
 
 .navigation:hover {
-	background-color: rgb(150,50,150);
+	background-color: #4AA192;
+}
+
+.navigation a {
+    color: #001663;
+}
+
+.navigation li a:hover {
+    background-color: #4D7CA2;
 }
 
 ul {
@@ -50,7 +61,7 @@ li a {
 }
 
 li a:hover {
-  background-color: rgb(50,150,150);
+  background-color: #4AA192;
 }
 
 .fotoNavWrapper {
@@ -61,7 +72,7 @@ li a:hover {
 
 ul.fotonav {
 	display: block;
-	background-color: gray;
+	background-color: #4D7CA2;
 }
 
 ul.fotonav li {
@@ -70,7 +81,7 @@ ul.fotonav li {
 
 ul.fotonav li a, .dropbtn {
   width: 100px;
-	color: red;
+	color: #001663;
 	text-align: center;
 	padding: 10px 12px;
 	text-decoration: none;
@@ -83,7 +94,7 @@ li.dropdown {
 .dropdown-content {
 	display: none;
 	position: absolute;
-	background-color: #f9f9f9;
+	background-color: #4D7CA2;
 	min-width: 100px;
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 	z-index: 2;
@@ -98,7 +109,7 @@ li.dropdown {
 }
 
 .dropdown-content a:hover {
-	background-color: #f1f1f1
+	background-color: #4AA192
 }
 
 .dropdown:hover .dropdown-content {
@@ -275,12 +286,12 @@ footer {
 }
 
 a {
-	color: gray;
+	color: dimgray;
 	text-decoration: none;
 }
 
 a:hover {
-	color: blue;
+	color: #001663;
 }
 
 .clear {
