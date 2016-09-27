@@ -1,1361 +1,1357 @@
 				<div id="c1" onclick="openLargePicture('Allerlei', 'P1012293.jpg', 'c1')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P1012293.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P1012293.jpg" alt="Blüten" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c2" onclick="openLargePicture('Allerlei', 'P1032314.jpg', 'c2')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P1032314.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P1032314.jpg" alt="Wassertropfen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c3" onclick="openLargePicture('Allerlei', 'P1122328.jpg', 'c3')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P1122328.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P1122328.jpg" alt="Landkarte" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c4" onclick="openLargePicture('Allerlei', 'P1232969.jpg', 'c4')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P1232969.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P1232969.jpg" alt="gelbe Kanne" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c5" onclick="openLargePicture('Allerlei', 'P1232971.jpg', 'c5')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P1232971.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P1232971.jpg" alt="Efeu an Birke" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c6" onclick="openLargePicture('Allerlei', 'P1232974.jpg', 'c6')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P1232974.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P1232974.jpg" alt="Steinschnecke" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c7" onclick="openLargePicture('Allerlei', 'P1232976.jpg', 'c7')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P1232976.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P1232976.jpg" alt="Balltreter" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c8" onclick="openLargePicture('Allerlei', 'P1232978.jpg', 'c8')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P1232978.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P1232978.jpg" alt="Hirsch" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c9" onclick="openLargePicture('Allerlei', 'P1233006.jpg', 'c9')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P1233006.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P1233006.jpg" alt="Kreis an Baum" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c10" onclick="openLargePicture('Allerlei', 'P3313568.jpg', 'c10')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P3313568.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P3313568.jpg" alt="Moosarten" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c11" onclick="openLargePicture('Allerlei', 'P3313570.jpg', 'c11')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P3313570.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P3313570.jpg" alt="Ostern" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c12" onclick="openLargePicture('Allerlei', 'P3313575.jpg', 'c12')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P3313575.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P3313575.jpg" alt="Krokusse" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c13" onclick="openLargePicture('Allerlei', 'P3313583.jpg', 'c13')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P3313583.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P3313583.jpg" alt="Gans auf See" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c14" onclick="openLargePicture('Allerlei', 'P3313602.jpg', 'c14')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P3313602.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P3313602.jpg" alt="Amselfutter" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c15" onclick="openLargePicture('Allerlei', 'P4163608.jpg', 'c15')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P4163608.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P4163608.jpg" alt="Hamburger Ebbe" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c16" onclick="openLargePicture('Allerlei', 'P4163628.jpg', 'c16')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P4163628.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P4163628.jpg" alt="Rustikal" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c17" onclick="openLargePicture('Allerlei', 'P4163634.jpg', 'c17')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P4163634.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P4163634.jpg" alt="Auf Wiedersehen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c18" onclick="openLargePicture('Allerlei', 'P4163635.jpg', 'c18')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P4163635.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P4163635.jpg" alt="Kahl gestutzt" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c19" onclick="openLargePicture('Allerlei', 'P4163639.jpg', 'c19')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P4163639.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P4163639.jpg" alt="Blütenpracht" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c20" onclick="openLargePicture('Allerlei', 'P4163640.jpg', 'c20')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P4163640.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P4163640.jpg" alt="versteckte Amsel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c21" onclick="openLargePicture('Allerlei', 'P5290039.jpg', 'c21')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P5290039.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P5290039.jpg" alt="Eichhörnchen kopfüber" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c22" onclick="openLargePicture('Allerlei', 'P5290088.jpg', 'c22')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P5290088.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P5290088.jpg" alt="Jungeichhörnchen beim fressen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c23" onclick="openLargePicture('Allerlei', 'P7020147.jpg', 'c23')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P7020147.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P7020147.jpg" alt="in der Luft" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c24" onclick="openLargePicture('Allerlei', 'P7020178.jpg', 'c24')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P7020178.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P7020178.jpg" alt="Bunter Schirm" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c25" onclick="openLargePicture('Allerlei', 'P7130200.jpg', 'c25')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P7130200.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P7130200.jpg" alt="Pfanzen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c26" onclick="openLargePicture('Allerlei', 'P7130210.jpg', 'c26')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P7130210.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P7130210.jpg" alt="Hamburger Wasserorgel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c27" onclick="openLargePicture('Allerlei', 'P7130222.jpg', 'c27')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P7130222.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P7130222.jpg" alt="Hamburger Wasserorgel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c28" onclick="openLargePicture('Allerlei', 'P7140336.jpg', 'c28')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P7140336.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P7140336.jpg" alt="fliehender Hase" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c29" onclick="openLargePicture('Allerlei', 'P7140339.jpg', 'c29')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P7140339.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P7140339.jpg" alt="Blume" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c30" onclick="openLargePicture('Allerlei', 'P7160343.jpg', 'c30')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P7160343.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P7160343.jpg" alt="Wasserspiel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c31" onclick="openLargePicture('Allerlei', 'P8030526.jpg', 'c31')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8030526.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8030526.jpg" alt="bei Nacht" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c32" onclick="openLargePicture('Allerlei', 'P8030537.jpg', 'c32')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8030537.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8030537.jpg" alt="Bei Nacht" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c33" onclick="openLargePicture('Allerlei', 'P8030542.jpg', 'c33')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8030542.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8030542.jpg" alt="Brücke bei Nacht" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c34" onclick="openLargePicture('Allerlei', 'P8070586.jpg', 'c34')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8070586.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8070586.jpg" alt="Ostseestrand" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c35" onclick="openLargePicture('Allerlei', 'P8070590.jpg', 'c35')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8070590.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8070590.jpg" alt="Möwe im Sand" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c36" onclick="openLargePicture('Allerlei', 'P8070592.jpg', 'c36')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8070592.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8070592.jpg" alt="Möwen im Sand" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c37" onclick="openLargePicture('Allerlei', 'P8070608.jpg', 'c37')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8070608.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8070608.jpg" alt="Ostseestrand" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c38" onclick="openLargePicture('Allerlei', 'P8070624.jpg', 'c38')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8070624.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8070624.jpg" alt="fliegende Möwe" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c39" onclick="openLargePicture('Allerlei', 'P8070632.jpg', 'c39')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8070632.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8070632.jpg" alt="Ostseestrand" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c40" onclick="openLargePicture('Allerlei', 'P8070644.jpg', 'c40')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8070644.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8070644.jpg" alt="Ostseestrand" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c41" onclick="openLargePicture('Allerlei', 'P8070663.jpg', 'c41')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8070663.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8070663.jpg" alt="sprechende Birke" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c42" onclick="openLargePicture('Allerlei', 'P8070668.jpg', 'c42')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8070668.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8070668.jpg" alt="sprechende Birke" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c43" onclick="openLargePicture('Allerlei', 'P8090854.jpg', 'c43')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8090854.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8090854.jpg" alt="Blumenmeer" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c44" onclick="openLargePicture('Allerlei', 'P8090863.jpg', 'c44')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8090863.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8090863.jpg" alt="Brombeeren" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c45" onclick="openLargePicture('Allerlei', 'P8090867.jpg', 'c45')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8090867.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8090867.jpg" alt="Dreizack Rübe" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c46" onclick="openLargePicture('Allerlei', 'P8090874.jpg', 'c46')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8090874.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8090874.jpg" alt="Tomatenzucht" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c47" onclick="openLargePicture('Allerlei', 'P8090881.jpg', 'c47')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8090881.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8090881.jpg" alt="Blüte" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c48" onclick="openLargePicture('Allerlei', 'P8250930.jpg', 'c48')" class="galeriecontainer">
-					<img src="Allerlei/thumb/P8250930.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/P8250930.jpg" alt="Sumpfgebiet" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c49" onclick="openLargePicture('Allerlei', 'PB250932.jpg', 'c49')" class="galeriecontainer">
-					<img src="Allerlei/thumb/PB250932.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/PB250932.jpg" alt="Vollmond" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c50" onclick="openLargePicture('Allerlei', 'PC301980.jpg', 'c50')" class="galeriecontainer">
-					<img src="Allerlei/thumb/PC301980.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Allerlei/thumb/PC301980.jpg" alt="Regler" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 
 
 				<div id="c1" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5113659.jpg', 'c1')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5113659.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5113659.jpg" alt="Tulpen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c2" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140003.jpg', 'c2')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140003.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140003.jpg" alt="Feurige Tulpe" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c3" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140009.jpg', 'c3')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140009.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140009.jpg" alt="Blattgrün" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c4" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140012.jpg', 'c4')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140012.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140012.jpg" alt="Bambuswald" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c5" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140014.jpg', 'c5')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140014.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140014.jpg" alt="Blütenmeer" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c6" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140015.jpg', 'c6')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140015.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140015.jpg" alt="Tulpe" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c7" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140017.jpg', 'c7')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140017.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140017.jpg" alt="Blüte" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c8" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140026.jpg', 'c8')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140026.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140026.jpg" alt="perlendes Wasser" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c9" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140029.jpg', 'c9')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140029.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140029.jpg" alt="Tropfen in der Sonne" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c10" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140030.jpg', 'c10')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140030.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140030.jpg" alt="Blumen am Wasser" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c11" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140031.jpg', 'c11')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140031.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140031.jpg" alt="Löwenzahn" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c12" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140034.jpg', 'c12')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140034.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140034.jpg" alt="Schildkröte" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c13" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140044.jpg', 'c13')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140044.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140044.jpg" alt="Bambushütte" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c14" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140045.jpg', 'c14')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140045.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140045.jpg" alt="Rose" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c15" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140047.jpg', 'c15')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140047.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140047.jpg" alt="Wasserbaum" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c16" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140048.jpg', 'c16')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140048.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140048.jpg" alt="Wasserspiel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c17" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140052.jpg', 'c17')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140052.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140052.jpg" alt="weiße Blüten" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c18" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140057.jpg', 'c18')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140057.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140057.jpg" alt="schwarze Tulpe" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c19" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140060.jpg', 'c19')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140060.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140060.jpg" alt="Gans am See" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c20" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140065.jpg', 'c20')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140065.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140065.jpg" alt="Gänse am See" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c21" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140077.jpg', 'c21')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140077.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140077.jpg" alt="versteckte Gans" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c22" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140087.jpg', 'c22')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140087.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140087.jpg" alt="Ruheort" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c23" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140116.jpg', 'c23')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140116.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140116.jpg" alt="Pusteblume" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c24" onclick="openLargePicture('Hamburg_Botanischer Garten', 'P5140196.jpg', 'c24')" class="galeriecontainer">
-					<img src="Hamburg_Botanischer Garten/thumb/P5140196.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Botanischer Garten/thumb/P5140196.jpg" alt="Buntsprecht" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 
 
 				<div id="c1" onclick="openLargePicture('Hamburg_Winter', 'P1010732.jpg', 'c1')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010732.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010732.jpg" alt="Beeren im Schnee" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c2" onclick="openLargePicture('Hamburg_Winter', 'P1010733.jpg', 'c2')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010733.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010733.jpg" alt="Schneesturm" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c3" onclick="openLargePicture('Hamburg_Winter', 'P1010736.jpg', 'c3')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010736.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010736.jpg" alt="roter Pünktchenrucksack im Schnee" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c4" onclick="openLargePicture('Hamburg_Winter', 'P1010745.jpg', 'c4')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010745.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010745.jpg" alt="Schneemann mit Schleife" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c5" onclick="openLargePicture('Hamburg_Winter', 'P1010747.jpg', 'c5')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010747.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010747.jpg" alt="Schneebedeckt" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c6" onclick="openLargePicture('Hamburg_Winter', 'P1010757.jpg', 'c6')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010757.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010757.jpg" alt="Straßenname unbekannt" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c7" onclick="openLargePicture('Hamburg_Winter', 'P1010758.jpg', 'c7')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010758.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010758.jpg" alt="Wetterschiff" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c8" onclick="openLargePicture('Hamburg_Winter', 'P1010763.jpg', 'c8')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010763.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010763.jpg" alt="Blattschnee" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c9" onclick="openLargePicture('Hamburg_Winter', 'P1010766.jpg', 'c9')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010766.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010766.jpg" alt="Spuren im Schnee" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c10" onclick="openLargePicture('Hamburg_Winter', 'P1010768.jpg', 'c10')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010768.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010768.jpg" alt="kalte Rose" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c11" onclick="openLargePicture('Hamburg_Winter', 'P1010770.jpg', 'c11')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010770.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010770.jpg" alt="blaue Tür" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c12" onclick="openLargePicture('Hamburg_Winter', 'P1010778.jpg', 'c12')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010778.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010778.jpg" alt="Nummer 52" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c13" onclick="openLargePicture('Hamburg_Winter', 'P1010786.jpg', 'c13')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010786.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010786.jpg" alt="kalte Limo" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c14" onclick="openLargePicture('Hamburg_Winter', 'P1010798.jpg', 'c14')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010798.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010798.jpg" alt="drei Haare" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c15" onclick="openLargePicture('Hamburg_Winter', 'P1010799.jpg', 'c15')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010799.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010799.jpg" alt="Schneemann" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c16" onclick="openLargePicture('Hamburg_Winter', 'P1010813.jpg', 'c16')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010813.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010813.jpg" alt="Anhalter" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c17" onclick="openLargePicture('Hamburg_Winter', 'P1010817.jpg', 'c17')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010817.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010817.jpg" alt="Generationen im Schnee" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c18" onclick="openLargePicture('Hamburg_Winter', 'P1010819.jpg', 'c18')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010819.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010819.jpg" alt="tollende Hunde" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c19" onclick="openLargePicture('Hamburg_Winter', 'P1010828.jpg', 'c19')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010828.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010828.jpg" alt="wälzender Hund" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c20" onclick="openLargePicture('Hamburg_Winter', 'P1010849.jpg', 'c20')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010849.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010849.jpg" alt="Blätter im Schnee" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c21" onclick="openLargePicture('Hamburg_Winter', 'P1010855.jpg', 'c21')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010855.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010855.jpg" alt="Rasthütte" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c22" onclick="openLargePicture('Hamburg_Winter', 'P1010876.jpg', 'c22')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010876.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010876.jpg" alt="Pulverschnee" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c23" onclick="openLargePicture('Hamburg_Winter', 'P1010879.jpg', 'c23')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010879.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010879.jpg" alt="Zaun" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c24" onclick="openLargePicture('Hamburg_Winter', 'P1010880.jpg', 'c24')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010880.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010880.jpg" alt="Stacheldrahtzaun" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c25" onclick="openLargePicture('Hamburg_Winter', 'P1010881.jpg', 'c25')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010881.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010881.jpg" alt="kalte Beeren" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c26" onclick="openLargePicture('Hamburg_Winter', 'P1010902.jpg', 'c26')" class="galeriecontainer">
-					<img src="Hamburg_Winter/thumb/P1010902.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Hamburg_Winter/thumb/P1010902.jpg" alt="Gemüsemann" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 
 
 				<div id="c1" onclick="openLargePicture('images', 'P2160295.jpg', 'c1')" class="galeriecontainer">
-					<img src="images/thumb/P2160295.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="images/thumb/P2160295.jpg" alt="OLYMPUS DIGITAL CAMERA" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c2" onclick="openLargePicture('images', 'P2192231.jpg', 'c2')" class="galeriecontainer">
-					<img src="images/thumb/P2192231.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="images/thumb/P2192231.jpg" alt="OLYMPUS DIGITAL CAMERA" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c3" onclick="openLargePicture('images', 'P2202273.jpg', 'c3')" class="galeriecontainer">
-					<img src="images/thumb/P2202273.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="images/thumb/P2202273.jpg" alt="OLYMPUS DIGITAL CAMERA" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c4" onclick="openLargePicture('images', 'P2212922.jpg', 'c4')" class="galeriecontainer">
-					<img src="images/thumb/P2212922.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="images/thumb/P2212922.jpg" alt="OLYMPUS DIGITAL CAMERA" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c5" onclick="openLargePicture('images', 'P2262184.jpg', 'c5')" class="galeriecontainer">
-					<img src="images/thumb/P2262184.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="images/thumb/P2262184.jpg" alt="OLYMPUS DIGITAL CAMERA" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c6" onclick="openLargePicture('images', 'P2272558.jpg', 'c6')" class="galeriecontainer">
-					<img src="images/thumb/P2272558.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="images/thumb/P2272558.jpg" alt="OLYMPUS DIGITAL CAMERA" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c7" onclick="openLargePicture('images', 'P2282698.jpg', 'c7')" class="galeriecontainer">
-					<img src="images/thumb/P2282698.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="images/thumb/P2282698.jpg" alt="OLYMPUS DIGITAL CAMERA" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c8" onclick="openLargePicture('images', 'P3012977.jpg', 'c8')" class="galeriecontainer">
-					<img src="images/thumb/P3012977.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="images/thumb/P3012977.jpg" alt="OLYMPUS DIGITAL CAMERA" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 
 
 				<div id="c1" onclick="openLargePicture('Namibia_Ghosttown', 'P2191669.jpg', 'c1')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191669.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191669.jpg" alt="Nebeltrinker-Käfer" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c2" onclick="openLargePicture('Namibia_Ghosttown', 'P2191674.jpg', 'c2')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191674.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191674.jpg" alt="Kochstelle" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c3" onclick="openLargePicture('Namibia_Ghosttown', 'P2191675.jpg', 'c3')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191675.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191675.jpg" alt="Leiter zur Deckenreparatur" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c4" onclick="openLargePicture('Namibia_Ghosttown', 'P2191679.jpg', 'c4')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191679.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191679.jpg" alt="Fenster aufgelassen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c5" onclick="openLargePicture('Namibia_Ghosttown', 'P2191683.jpg', 'c5')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191683.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191683.jpg" alt="Kegelbahn" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c6" onclick="openLargePicture('Namibia_Ghosttown', 'P2191687.jpg', 'c6')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191687.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191687.jpg" alt="alte Lampen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c7" onclick="openLargePicture('Namibia_Ghosttown', 'P2191715.jpg', 'c7')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191715.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191715.jpg" alt="Wandfarbe" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c8" onclick="openLargePicture('Namibia_Ghosttown', 'P2191720.jpg', 'c8')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191720.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191720.jpg" alt="Sandhalle" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c9" onclick="openLargePicture('Namibia_Ghosttown', 'P2191722.jpg', 'c9')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191722.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191722.jpg" alt="Zimmer eingestaubt" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c10" onclick="openLargePicture('Namibia_Ghosttown', 'P2191736.jpg', 'c10')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191736.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191736.jpg" alt="Stacheldraht" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c11" onclick="openLargePicture('Namibia_Ghosttown', 'P2191743.jpg', 'c11')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191743.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191743.jpg" alt="Kolmanskop Villen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c12" onclick="openLargePicture('Namibia_Ghosttown', 'P2191749.jpg', 'c12')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191749.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191749.jpg" alt="Türen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c13" onclick="openLargePicture('Namibia_Ghosttown', 'P2191754.jpg', 'c13')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191754.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191754.jpg" alt="Toilette" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c14" onclick="openLargePicture('Namibia_Ghosttown', 'P2191757.jpg', 'c14')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191757.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191757.jpg" alt="Tapete" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c15" onclick="openLargePicture('Namibia_Ghosttown', 'P2191770.jpg', 'c15')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191770.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191770.jpg" alt="Türen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c16" onclick="openLargePicture('Namibia_Ghosttown', 'P2191776.jpg', 'c16')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191776.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191776.jpg" alt="Türen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c17" onclick="openLargePicture('Namibia_Ghosttown', 'P2191778.jpg', 'c17')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191778.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191778.jpg" alt="Badewanne" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c18" onclick="openLargePicture('Namibia_Ghosttown', 'P2191783.jpg', 'c18')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191783.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191783.jpg" alt="kaputtes Fenster" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c19" onclick="openLargePicture('Namibia_Ghosttown', 'P2191790.jpg', 'c19')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191790.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191790.jpg" alt="abblätternde Decke" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c20" onclick="openLargePicture('Namibia_Ghosttown', 'P2191797.jpg', 'c20')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191797.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191797.jpg" alt="fließender Sand" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c21" onclick="openLargePicture('Namibia_Ghosttown', 'P2191813.jpg', 'c21')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191813.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191813.jpg" alt="Eisfabrik" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c22" onclick="openLargePicture('Namibia_Ghosttown', 'P2191814.jpg', 'c22')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191814.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191814.jpg" alt="Stromversorgung" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c23" onclick="openLargePicture('Namibia_Ghosttown', 'P2191825.jpg', 'c23')" class="galeriecontainer">
-					<img src="Namibia_Ghosttown/thumb/P2191825.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Ghosttown/thumb/P2191825.jpg" alt="gemütlich" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 
 
 				<div id="c1" onclick="openLargePicture('Namibia_Tiere', 'P2191910.jpg', 'c1')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2191910.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2191910.jpg" alt="Heuschrecke" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c2" onclick="openLargePicture('Namibia_Tiere', 'P2202273.jpg', 'c2')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2202273.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2202273.jpg" alt="Steppenzebra" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c3" onclick="openLargePicture('Namibia_Tiere', 'P2223137.jpg', 'c3')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2223137.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2223137.jpg" alt="startende Flamingos" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c4" onclick="openLargePicture('Namibia_Tiere', 'P2223149.jpg', 'c4')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2223149.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2223149.jpg" alt="fliegende Flamingos" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c5" onclick="openLargePicture('Namibia_Tiere', 'P2223215.jpg', 'c5')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2223215.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2223215.jpg" alt="gehender Flamingo" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c6" onclick="openLargePicture('Namibia_Tiere', 'P2223278.jpg', 'c6')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2223278.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2223278.jpg" alt="startender Flamingo" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c7" onclick="openLargePicture('Namibia_Tiere', 'P2240285.jpg', 'c7')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2240285.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2240285.jpg" alt="Robbenkolonie" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c8" onclick="openLargePicture('Namibia_Tiere', 'P2240379.jpg', 'c8')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2240379.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2240379.jpg" alt="rufende Mutter" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c9" onclick="openLargePicture('Namibia_Tiere', 'P2240828.jpg', 'c9')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2240828.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2240828.jpg" alt="liegender Gepard" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c10" onclick="openLargePicture('Namibia_Tiere', 'P2240903.jpg', 'c10')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2240903.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2240903.jpg" alt="Tarnung" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c11" onclick="openLargePicture('Namibia_Tiere', 'P2240922.jpg', 'c11')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2240922.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2240922.jpg" alt="Tarnung" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c12" onclick="openLargePicture('Namibia_Tiere', 'P2241016.jpg', 'c12')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2241016.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2241016.jpg" alt="Ausguck" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c13" onclick="openLargePicture('Namibia_Tiere', 'P2251630.jpg', 'c13')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2251630.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2251630.jpg" alt="auf der Pirsch" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c14" onclick="openLargePicture('Namibia_Tiere', 'P2251852.jpg', 'c14')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2251852.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2251852.jpg" alt="Tüpfelhyäne" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c15" onclick="openLargePicture('Namibia_Tiere', 'P2251864.jpg', 'c15')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2251864.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2251864.jpg" alt="auf der Lauer" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c16" onclick="openLargePicture('Namibia_Tiere', 'P2262091.jpg', 'c16')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262091.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262091.jpg" alt="Greifvogel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c17" onclick="openLargePicture('Namibia_Tiere', 'P2262098.jpg', 'c17')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262098.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262098.jpg" alt="an der Wasserstelle" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c18" onclick="openLargePicture('Namibia_Tiere', 'P2262135.jpg', 'c18')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262135.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262135.jpg" alt="Kleinkrieg" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c19" onclick="openLargePicture('Namibia_Tiere', 'P2262165.jpg', 'c19')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262165.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262165.jpg" alt="ruhender Löwe" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c20" onclick="openLargePicture('Namibia_Tiere', 'P2262184.jpg', 'c20')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262184.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262184.jpg" alt="Segelflug" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c21" onclick="openLargePicture('Namibia_Tiere', 'P2262196.jpg', 'c21')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262196.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262196.jpg" alt="schreitender Vogel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c22" onclick="openLargePicture('Namibia_Tiere', 'P2262228.jpg', 'c22')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262228.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262228.jpg" alt="Jungzebra" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c23" onclick="openLargePicture('Namibia_Tiere', 'P2262256.jpg', 'c23')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262256.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262256.jpg" alt="kopfüber" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c24" onclick="openLargePicture('Namibia_Tiere', 'P2262270.jpg', 'c24')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262270.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262270.jpg" alt="laufende Giraffe " width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c25" onclick="openLargePicture('Namibia_Tiere', 'P2262287.jpg', 'c25')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262287.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262287.jpg" alt="zwei versteckte Giraffen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c26" onclick="openLargePicture('Namibia_Tiere', 'P2262334.jpg', 'c26')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262334.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262334.jpg" alt="Elefantenherde" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c27" onclick="openLargePicture('Namibia_Tiere', 'P2262339.jpg', 'c27')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262339.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262339.jpg" alt="laufende Elefantenherde" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c28" onclick="openLargePicture('Namibia_Tiere', 'P2262407.jpg', 'c28')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262407.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262407.jpg" alt="beim Grasen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c29" onclick="openLargePicture('Namibia_Tiere', 'P2262430.jpg', 'c29')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262430.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262430.jpg" alt="friedliche Gemeinschaft" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c30" onclick="openLargePicture('Namibia_Tiere', 'P2262442.jpg', 'c30')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262442.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262442.jpg" alt="volle Aufmerksamkeit" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c31" onclick="openLargePicture('Namibia_Tiere', 'P2262453.jpg', 'c31')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2262453.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2262453.jpg" alt="Eusparassus walckenaeri" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c32" onclick="openLargePicture('Namibia_Tiere', 'P2272569.jpg', 'c32')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2272569.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2272569.jpg" alt="Pumba und Pumba" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c33" onclick="openLargePicture('Namibia_Tiere', 'P2272591.jpg', 'c33')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2272591.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2272591.jpg" alt="gelber Webervogel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c34" onclick="openLargePicture('Namibia_Tiere', 'P2272612.jpg', 'c34')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2272612.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2272612.jpg" alt="Golden Orb" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c35" onclick="openLargePicture('Namibia_Tiere', 'P2272617.jpg', 'c35')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2272617.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2272617.jpg" alt="Golden Orb" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c36" onclick="openLargePicture('Namibia_Tiere', 'P2272641.jpg', 'c36')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2272641.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2272641.jpg" alt="Stachelschwein" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c37" onclick="openLargePicture('Namibia_Tiere', 'P2282685.jpg', 'c37')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2282685.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2282685.jpg" alt="Schmetterling" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c38" onclick="openLargePicture('Namibia_Tiere', 'P2282751.jpg', 'c38')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2282751.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2282751.jpg" alt="Miniechse" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c39" onclick="openLargePicture('Namibia_Tiere', 'P2282756.jpg', 'c39')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2282756.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2282756.jpg" alt="Schwarzbauch-Glanzstar" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c40" onclick="openLargePicture('Namibia_Tiere', 'P2282763.jpg', 'c40')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2282763.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2282763.jpg" alt="Pavian" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c41" onclick="openLargePicture('Namibia_Tiere', 'P2282810.jpg', 'c41')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2282810.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2282810.jpg" alt="Golden Orb" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c42" onclick="openLargePicture('Namibia_Tiere', 'P2282822.jpg', 'c42')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2282822.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2282822.jpg" alt="Pavian" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c43" onclick="openLargePicture('Namibia_Tiere', 'P2282823.jpg', 'c43')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2282823.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2282823.jpg" alt="Paviankind" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c44" onclick="openLargePicture('Namibia_Tiere', 'P2292902.jpg', 'c44')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2292902.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2292902.jpg" alt="Erdhörnchen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c45" onclick="openLargePicture('Namibia_Tiere', 'P2292912.jpg', 'c45')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2292912.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2292912.jpg" alt="Heuschrecke" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c46" onclick="openLargePicture('Namibia_Tiere', 'P2292932.jpg', 'c46')" class="galeriecontainer">
-					<img src="Namibia_Tiere/thumb/P2292932.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Tiere/thumb/P2292932.jpg" alt="Männchen und Weibchen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 
 
 				<div id="c1" onclick="openLargePicture('Namibia_Verschiedenes', 'P2160615.jpg', 'c1')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2160615.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2160615.jpg" alt="Blitz über Köcherbaumwald" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c2" onclick="openLargePicture('Namibia_Verschiedenes', 'P2170728.jpg', 'c2')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2170728.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2170728.jpg" alt="Giants Playground" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c3" onclick="openLargePicture('Namibia_Verschiedenes', 'P2170735.jpg', 'c3')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2170735.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2170735.jpg" alt="Giants Playground mit Köcherbaum" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c4" onclick="openLargePicture('Namibia_Verschiedenes', 'P2170877.jpg', 'c4')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2170877.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2170877.jpg" alt="Oryx-Antilopen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c5" onclick="openLargePicture('Namibia_Verschiedenes', 'P2171087.jpg', 'c5')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2171087.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2171087.jpg" alt="grüner Vogel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c6" onclick="openLargePicture('Namibia_Verschiedenes', 'P2171101.jpg', 'c6')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2171101.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2171101.jpg" alt="einsamer Weg" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c7" onclick="openLargePicture('Namibia_Verschiedenes', 'P2181210.jpg', 'c7')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2181210.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2181210.jpg" alt="gelber Webervogel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c8" onclick="openLargePicture('Namibia_Verschiedenes', 'P2181249.jpg', 'c8')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2181249.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2181249.jpg" alt="harte Arbeit" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c9" onclick="openLargePicture('Namibia_Verschiedenes', 'P2181356.jpg', 'c9')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2181356.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2181356.jpg" alt="Sturm an der Küste" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c10" onclick="openLargePicture('Namibia_Verschiedenes', 'P2181460.jpg', 'c10')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2181460.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2181460.jpg" alt="Felsenkirche" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c11" onclick="openLargePicture('Namibia_Verschiedenes', 'P2191873.jpg', 'c11')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2191873.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2191873.jpg" alt="rennender Strauß " width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c12" onclick="openLargePicture('Namibia_Verschiedenes', 'P2191886.jpg', 'c12')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2191886.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2191886.jpg" alt="Oryx-Antilope im Schatten" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c13" onclick="openLargePicture('Namibia_Verschiedenes', 'P2191917.jpg', 'c13')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2191917.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2191917.jpg" alt="Hitze" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c14" onclick="openLargePicture('Namibia_Verschiedenes', 'P2191962.jpg', 'c14')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2191962.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2191962.jpg" alt="Holzvogel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c15" onclick="openLargePicture('Namibia_Verschiedenes', 'P2192198.jpg', 'c15')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2192198.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2192198.jpg" alt="Schattenspiel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c16" onclick="openLargePicture('Namibia_Verschiedenes', 'P2192231.jpg', 'c16')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2192231.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2192231.jpg" alt="Nachthimmel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c17" onclick="openLargePicture('Namibia_Verschiedenes', 'P2202403.jpg', 'c17')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2202403.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2202403.jpg" alt="Abendsonne" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c18" onclick="openLargePicture('Namibia_Verschiedenes', 'P2202416.jpg', 'c18')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2202416.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2202416.jpg" alt="einzelner Baum" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c19" onclick="openLargePicture('Namibia_Verschiedenes', 'P2202445.jpg', 'c19')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2202445.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2202445.jpg" alt="Sonnenuntergang" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c20" onclick="openLargePicture('Namibia_Verschiedenes', 'P2212539.jpg', 'c20')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2212539.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2212539.jpg" alt="Dünen von Namib" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c21" onclick="openLargePicture('Namibia_Verschiedenes', 'P2212576.jpg', 'c21')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2212576.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2212576.jpg" alt="Deathvalley" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c22" onclick="openLargePicture('Namibia_Verschiedenes', 'P2212607.jpg', 'c22')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2212607.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2212607.jpg" alt="Dünen von Namib" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c23" onclick="openLargePicture('Namibia_Verschiedenes', 'P2212640.jpg', 'c23')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2212640.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2212640.jpg" alt="Eule im Baum" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c24" onclick="openLargePicture('Namibia_Verschiedenes', 'P2212685.jpg', 'c24')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2212685.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2212685.jpg" alt="Oryx-Antilope in der Wüste" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c25" onclick="openLargePicture('Namibia_Verschiedenes', 'P2212870.jpg', 'c25')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2212870.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2212870.jpg" alt="Erdmännchen beobachten Sportler" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c26" onclick="openLargePicture('Namibia_Verschiedenes', 'P2212885.jpg', 'c26')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2212885.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2212885.jpg" alt="galloppierende Zebras" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c27" onclick="openLargePicture('Namibia_Verschiedenes', 'P2212891.jpg', 'c27')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2212891.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2212891.jpg" alt="rennendes Zebra" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c28" onclick="openLargePicture('Namibia_Verschiedenes', 'P2212922.jpg', 'c28')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2212922.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2212922.jpg" alt="Kaktus im Sonnenuntergang" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c29" onclick="openLargePicture('Namibia_Verschiedenes', 'P2212935.jpg', 'c29')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2212935.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2212935.jpg" alt="Sonnenuntergang" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c30" onclick="openLargePicture('Namibia_Verschiedenes', 'P2223055.jpg', 'c30')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2223055.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2223055.jpg" alt="einsame Antilope" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c31" onclick="openLargePicture('Namibia_Verschiedenes', 'P2223312.jpg', 'c31')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2223312.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2223312.jpg" alt="Flamingos" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c32" onclick="openLargePicture('Namibia_Verschiedenes', 'P2223439.jpg', 'c32')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2223439.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2223439.jpg" alt="Windsurfen auf Sand" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c33" onclick="openLargePicture('Namibia_Verschiedenes', 'P2230039.jpg', 'c33')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2230039.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2230039.jpg" alt="Einheimischer Junge" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c34" onclick="openLargePicture('Namibia_Verschiedenes', 'P2230045.jpg', 'c34')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2230045.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2230045.jpg" alt="Einheimisches Mädchen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c35" onclick="openLargePicture('Namibia_Verschiedenes', 'P2230206.jpg', 'c35')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2230206.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2230206.jpg" alt="Brandungsangeln" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c36" onclick="openLargePicture('Namibia_Verschiedenes', 'P2240466.jpg', 'c36')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2240466.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2240466.jpg" alt="gefesselter Esel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c37" onclick="openLargePicture('Namibia_Verschiedenes', 'P2240764.jpg', 'c37')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2240764.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2240764.jpg" alt="Nissan" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c38" onclick="openLargePicture('Namibia_Verschiedenes', 'P2251095.jpg', 'c38')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2251095.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2251095.jpg" alt="Wolkenhimmel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c39" onclick="openLargePicture('Namibia_Verschiedenes', 'P2251981.jpg', 'c39')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2251981.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2251981.jpg" alt="Camper" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c40" onclick="openLargePicture('Namibia_Verschiedenes', 'P2252045.jpg', 'c40')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2252045.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2252045.jpg" alt="Sonnenuntergang" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c41" onclick="openLargePicture('Namibia_Verschiedenes', 'P2272558.jpg', 'c41')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2272558.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2272558.jpg" alt="Wolken in Namibia" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c42" onclick="openLargePicture('Namibia_Verschiedenes', 'P2282672.jpg', 'c42')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2282672.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2282672.jpg" alt="Blüten" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c43" onclick="openLargePicture('Namibia_Verschiedenes', 'P2282680.jpg', 'c43')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2282680.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2282680.jpg" alt="Mahlzeit" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c44" onclick="openLargePicture('Namibia_Verschiedenes', 'P2282698.jpg', 'c44')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2282698.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2282698.jpg" alt="Blütenmeer" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c45" onclick="openLargePicture('Namibia_Verschiedenes', 'P2282769.jpg', 'c45')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2282769.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2282769.jpg" alt="Baumgerippe" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c46" onclick="openLargePicture('Namibia_Verschiedenes', 'P2282786.jpg', 'c46')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2282786.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2282786.jpg" alt="Blüte " width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c47" onclick="openLargePicture('Namibia_Verschiedenes', 'P2282791.jpg', 'c47')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2282791.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2282791.jpg" alt="Person vor Riesenbambus" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c48" onclick="openLargePicture('Namibia_Verschiedenes', 'P2282850.jpg', 'c48')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2282850.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2282850.jpg" alt="Blüten " width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c49" onclick="openLargePicture('Namibia_Verschiedenes', 'P2292865.jpg', 'c49')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2292865.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2292865.jpg" alt="Zahngarderobe" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c50" onclick="openLargePicture('Namibia_Verschiedenes', 'P2292870.jpg', 'c50')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2292870.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2292870.jpg" alt="Rasenmähen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c51" onclick="openLargePicture('Namibia_Verschiedenes', 'P2292943.jpg', 'c51')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2292943.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2292943.jpg" alt="Sonnenuntergang" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c52" onclick="openLargePicture('Namibia_Verschiedenes', 'P2292952.jpg', 'c52')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2292952.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2292952.jpg" alt="Sonnenuntergang" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c53" onclick="openLargePicture('Namibia_Verschiedenes', 'P2292955.jpg', 'c53')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2292955.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2292955.jpg" alt="doppelter Regenbogen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c54" onclick="openLargePicture('Namibia_Verschiedenes', 'P2292961.jpg', 'c54')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P2292961.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P2292961.jpg" alt="Abendhimmel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c55" onclick="openLargePicture('Namibia_Verschiedenes', 'P3012977.jpg', 'c55')" class="galeriecontainer">
-					<img src="Namibia_Verschiedenes/thumb/P3012977.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Namibia_Verschiedenes/thumb/P3012977.jpg" alt="Kakteen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 
 
 				<div id="c1" onclick="openLargePicture('Schweden', 'P8160002.jpg', 'c1')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8160002.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8160002.jpg" alt="Kanutour" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c2" onclick="openLargePicture('Schweden', 'P8160009.jpg', 'c2')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8160009.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8160009.jpg" alt="dunkles Haus" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c3" onclick="openLargePicture('Schweden', 'P8170031.jpg', 'c3')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8170031.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8170031.jpg" alt="Gras auf Moos auf Baum auf Wasser" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c4" onclick="openLargePicture('Schweden', 'P8170034.jpg', 'c4')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8170034.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8170034.jpg" alt="Gerippe" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c5" onclick="openLargePicture('Schweden', 'P8170039.jpg', 'c5')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8170039.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8170039.jpg" alt="Moosbedeckt" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c6" onclick="openLargePicture('Schweden', 'P8170044.jpg', 'c6')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8170044.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8170044.jpg" alt="Herbstboden" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c7" onclick="openLargePicture('Schweden', 'P8170071.jpg', 'c7')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8170071.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8170071.jpg" alt="Schwedenstimmung" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c8" onclick="openLargePicture('Schweden', 'P8170075.jpg', 'c8')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8170075.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8170075.jpg" alt="Holzbalken" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c9" onclick="openLargePicture('Schweden', 'P8170080.jpg', 'c9')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8170080.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8170080.jpg" alt="geheimnisvolle Höhle" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c10" onclick="openLargePicture('Schweden', 'P8170089.jpg', 'c10')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8170089.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8170089.jpg" alt="Niedrigwasser" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c11" onclick="openLargePicture('Schweden', 'P8170105.jpg', 'c11')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8170105.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8170105.jpg" alt="Spuren im Gras" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c12" onclick="openLargePicture('Schweden', 'P8170109.jpg', 'c12')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8170109.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8170109.jpg" alt="Waldstimmung" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c13" onclick="openLargePicture('Schweden', 'P8180123.jpg', 'c13')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8180123.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8180123.jpg" alt="Wurzel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c14" onclick="openLargePicture('Schweden', 'P8180126.jpg', 'c14')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8180126.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8180126.jpg" alt="Pilz" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c15" onclick="openLargePicture('Schweden', 'P8190150.jpg', 'c15')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190150.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190150.jpg" alt="Pfauenauge" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c16" onclick="openLargePicture('Schweden', 'P8190163.jpg', 'c16')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190163.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190163.jpg" alt="am Grab" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c17" onclick="openLargePicture('Schweden', 'P8190166.jpg', 'c17')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190166.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190166.jpg" alt="Lampe mit Fenster" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c18" onclick="openLargePicture('Schweden', 'P8190167.jpg', 'c18')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190167.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190167.jpg" alt="Kerzenbeleuchtung" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c19" onclick="openLargePicture('Schweden', 'P8190170.jpg', 'c19')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190170.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190170.jpg" alt="Kirchendecke" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c20" onclick="openLargePicture('Schweden', 'P8190175.jpg', 'c20')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190175.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190175.jpg" alt="Taufbecken mit Kerze" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c21" onclick="openLargePicture('Schweden', 'P8190179.jpg', 'c21')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190179.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190179.jpg" alt="Kirchenstimmung" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c22" onclick="openLargePicture('Schweden', 'P8190185.jpg', 'c22')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190185.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190185.jpg" alt="Blaubeeren" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c23" onclick="openLargePicture('Schweden', 'P8190186.jpg', 'c23')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190186.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190186.jpg" alt="Preiselbeeren" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c24" onclick="openLargePicture('Schweden', 'P8190191.jpg', 'c24')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190191.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190191.jpg" alt="Blaubeeren" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c25" onclick="openLargePicture('Schweden', 'P8190198.jpg', 'c25')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190198.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190198.jpg" alt="Vogel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c26" onclick="openLargePicture('Schweden', 'P8190231.jpg', 'c26')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190231.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190231.jpg" alt="Seitenfluss" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c27" onclick="openLargePicture('Schweden', 'P8190242.jpg', 'c27')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190242.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190242.jpg" alt="Entspannungsort" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c28" onclick="openLargePicture('Schweden', 'P8190256.jpg', 'c28')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190256.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190256.jpg" alt="Wasserhindernis" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c29" onclick="openLargePicture('Schweden', 'P8190294.jpg', 'c29')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190294.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190294.jpg" alt="Spiegelglatt" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c30" onclick="openLargePicture('Schweden', 'P8190537.jpg', 'c30')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190537.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190537.jpg" alt="Abendhimmel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c31" onclick="openLargePicture('Schweden', 'P8190544.jpg', 'c31')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8190544.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8190544.jpg" alt="Abendhimmel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c32" onclick="openLargePicture('Schweden', 'P8210551.jpg', 'c32')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8210551.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8210551.jpg" alt="Fliegenpilze" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c33" onclick="openLargePicture('Schweden', 'P8210555.jpg', 'c33')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8210555.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8210555.jpg" alt="Fliegenpilz" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c34" onclick="openLargePicture('Schweden', 'P8210562.jpg', 'c34')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8210562.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8210562.jpg" alt="Fliegenpilz" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c35" onclick="openLargePicture('Schweden', 'P8210567.jpg', 'c35')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8210567.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8210567.jpg" alt="Fliegenpilz" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c36" onclick="openLargePicture('Schweden', 'P8210568.jpg', 'c36')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8210568.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8210568.jpg" alt="Fliegenpilz" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c37" onclick="openLargePicture('Schweden', 'P8210570.jpg', 'c37')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8210570.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8210570.jpg" alt="Fliegenpilze" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c38" onclick="openLargePicture('Schweden', 'P8210572.jpg', 'c38')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8210572.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8210572.jpg" alt="Frosch auf Moos" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c39" onclick="openLargePicture('Schweden', 'P8210579.jpg', 'c39')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8210579.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8210579.jpg" alt="Bedeckt" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c40" onclick="openLargePicture('Schweden', 'P8210585.jpg', 'c40')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8210585.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8210585.jpg" alt="Kreuzotter" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c41" onclick="openLargePicture('Schweden', 'P8210592.jpg', 'c41')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8210592.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8210592.jpg" alt="Landschaft aus Schweden" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c42" onclick="openLargePicture('Schweden', 'P8220698.jpg', 'c42')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8220698.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8220698.jpg" alt="dem Fluss folgen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c43" onclick="openLargePicture('Schweden', 'P8220702.jpg', 'c43')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8220702.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8220702.jpg" alt="Eisvogel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c44" onclick="openLargePicture('Schweden', 'P8220712.jpg', 'c44')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8220712.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8220712.jpg" alt="Brombeeren" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c45" onclick="openLargePicture('Schweden', 'P8220717.jpg', 'c45')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8220717.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8220717.jpg" alt="Greifvogel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c46" onclick="openLargePicture('Schweden', 'P8220731.jpg', 'c46')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8220731.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8220731.jpg" alt="Schwedenstimmung" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c47" onclick="openLargePicture('Schweden', 'P8220743.jpg', 'c47')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8220743.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8220743.jpg" alt="schwimmen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c48" onclick="openLargePicture('Schweden', 'P8220747.jpg', 'c48')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8220747.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8220747.jpg" alt="ruhiger See" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c49" onclick="openLargePicture('Schweden', 'P8220752.jpg', 'c49')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8220752.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8220752.jpg" alt="leere Hütte" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c50" onclick="openLargePicture('Schweden', 'P8220766.jpg', 'c50')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8220766.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8220766.jpg" alt="Eichhörnchen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c51" onclick="openLargePicture('Schweden', 'P8220770.jpg', 'c51')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8220770.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8220770.jpg" alt="Frosch" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c52" onclick="openLargePicture('Schweden', 'P8220772.jpg', 'c52')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8220772.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8220772.jpg" alt="Birke mit Krawatte" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c53" onclick="openLargePicture('Schweden', 'P8220780.jpg', 'c53')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8220780.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8220780.jpg" alt="ruhiger See" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c54" onclick="openLargePicture('Schweden', 'P8220784.jpg', 'c54')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8220784.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Schweden/thumb/P8220784.jpg" alt="moosiger Wald" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
-				<div id="c55" onclick="openLargePicture('Schweden', 'P8220787.jpg', 'c55')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8220787.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+				<div id="c55" onclick="openLargePicture('Schweden', 'P8230797.jpg', 'c55')" class="galeriecontainer">
+					<img src="Schweden/thumb/P8230797.jpg" alt="Poststation" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
-				<div id="c56" onclick="openLargePicture('Schweden', 'P8230797.jpg', 'c56')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8230797.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+				<div id="c56" onclick="openLargePicture('Schweden', 'P8230810.jpg', 'c56')" class="galeriecontainer">
+					<img src="Schweden/thumb/P8230810.jpg" alt="Rostfedern" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
-				<div id="c57" onclick="openLargePicture('Schweden', 'P8230810.jpg', 'c57')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8230810.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+				<div id="c57" onclick="openLargePicture('Schweden', 'P8230812.jpg', 'c57')" class="galeriecontainer">
+					<img src="Schweden/thumb/P8230812.jpg" alt="rostige Schrauben" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
-				<div id="c58" onclick="openLargePicture('Schweden', 'P8230812.jpg', 'c58')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8230812.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+				<div id="c58" onclick="openLargePicture('Schweden', 'P8230827.jpg', 'c58')" class="galeriecontainer">
+					<img src="Schweden/thumb/P8230827.jpg" alt="Elch" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
-				<div id="c59" onclick="openLargePicture('Schweden', 'P8230827.jpg', 'c59')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8230827.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+				<div id="c59" onclick="openLargePicture('Schweden', 'P8230859.jpg', 'c59')" class="galeriecontainer">
+					<img src="Schweden/thumb/P8230859.jpg" alt="Abflug" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
-				<div id="c60" onclick="openLargePicture('Schweden', 'P8230859.jpg', 'c60')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8230859.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+				<div id="c60" onclick="openLargePicture('Schweden', 'P8230867.jpg', 'c60')" class="galeriecontainer">
+					<img src="Schweden/thumb/P8230867.jpg" alt="Wasserfontäne" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
-				<div id="c61" onclick="openLargePicture('Schweden', 'P8230867.jpg', 'c61')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8230867.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+				<div id="c61" onclick="openLargePicture('Schweden', 'P8230872.jpg', 'c61')" class="galeriecontainer">
+					<img src="Schweden/thumb/P8230872.jpg" alt="angestrahlte Wasserfontäne" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
-				<div id="c62" onclick="openLargePicture('Schweden', 'P8230872.jpg', 'c62')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8230872.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
-					<div class="bildbeschreibung"> </div>
-				</div>
-				<div id="c63" onclick="openLargePicture('Schweden', 'P8230884.jpg', 'c63')" class="galeriecontainer">
-					<img src="Schweden/thumb/P8230884.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+				<div id="c62" onclick="openLargePicture('Schweden', 'P8230884.jpg', 'c62')" class="galeriecontainer">
+					<img src="Schweden/thumb/P8230884.jpg" alt="Gärtnerprofis" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 
 
 				<div id="c1" onclick="openLargePicture('Zoo Rostock', 'P7310462.jpg', 'c1')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P7310462.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P7310462.jpg" alt="bunter Fisch" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c2" onclick="openLargePicture('Zoo Rostock', 'P7310474.jpg', 'c2')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P7310474.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P7310474.jpg" alt="gelber Fisch" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c3" onclick="openLargePicture('Zoo Rostock', 'P7310484.jpg', 'c3')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P7310484.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P7310484.jpg" alt="Schlange mit zwei Köpfen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c4" onclick="openLargePicture('Zoo Rostock', 'P7310490.jpg', 'c4')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P7310490.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P7310490.jpg" alt="Orang Utan" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c5" onclick="openLargePicture('Zoo Rostock', 'P7310492.jpg', 'c5')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P7310492.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P7310492.jpg" alt="Faultier" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c6" onclick="openLargePicture('Zoo Rostock', 'P7310501.jpg', 'c6')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P7310501.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P7310501.jpg" alt="lange Arme" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c7" onclick="openLargePicture('Zoo Rostock', 'P7310503.jpg', 'c7')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P7310503.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P7310503.jpg" alt="hinter Gittern" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c8" onclick="openLargePicture('Zoo Rostock', 'P7310516.jpg', 'c8')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P7310516.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P7310516.jpg" alt="Muskelprotz" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c9" onclick="openLargePicture('Zoo Rostock', 'P7310518.jpg', 'c9')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P7310518.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P7310518.jpg" alt="Gorilla" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c10" onclick="openLargePicture('Zoo Rostock', 'P8080691.jpg', 'c10')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080691.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080691.jpg" alt="Babyrobbe" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c11" onclick="openLargePicture('Zoo Rostock', 'P8080692.jpg', 'c11')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080692.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080692.jpg" alt="Babyrobbe mit Mutter" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c12" onclick="openLargePicture('Zoo Rostock', 'P8080693.jpg', 'c12')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080693.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080693.jpg" alt="Entengrütze " width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c13" onclick="openLargePicture('Zoo Rostock', 'P8080699.jpg', 'c13')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080699.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080699.jpg" alt="Vogel mit Schnauzer" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c14" onclick="openLargePicture('Zoo Rostock', 'P8080701.jpg', 'c14')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080701.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080701.jpg" alt="Ente " width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c15" onclick="openLargePicture('Zoo Rostock', 'P8080706.jpg', 'c15')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080706.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080706.jpg" alt="Vogel" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c16" onclick="openLargePicture('Zoo Rostock', 'P8080711.jpg', 'c16')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080711.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080711.jpg" alt="Kronenkranich" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c17" onclick="openLargePicture('Zoo Rostock', 'P8080713.jpg', 'c17')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080713.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080713.jpg" alt="Pause" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c18" onclick="openLargePicture('Zoo Rostock', 'P8080714.jpg', 'c18')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080714.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080714.jpg" alt="unzensiert" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c19" onclick="openLargePicture('Zoo Rostock', 'P8080729.jpg', 'c19')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080729.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080729.jpg" alt="Familientreffen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c20" onclick="openLargePicture('Zoo Rostock', 'P8080735.jpg', 'c20')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080735.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080735.jpg" alt="rosa Schlaf" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c21" onclick="openLargePicture('Zoo Rostock', 'P8080750.jpg', 'c21')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080750.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080750.jpg" alt="aufmerksamer Leopard" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c22" onclick="openLargePicture('Zoo Rostock', 'P8080759.jpg', 'c22')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080759.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080759.jpg" alt="Storch in Kiefer" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c23" onclick="openLargePicture('Zoo Rostock', 'P8080775.jpg', 'c23')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080775.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080775.jpg" alt="Hippo" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c24" onclick="openLargePicture('Zoo Rostock', 'P8080782.jpg', 'c24')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080782.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080782.jpg" alt="Ackerblumen" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c25" onclick="openLargePicture('Zoo Rostock', 'P8080790.jpg', 'c25')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080790.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080790.jpg" alt="Mäusebrot" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c26" onclick="openLargePicture('Zoo Rostock', 'P8080793.jpg', 'c26')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080793.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080793.jpg" alt="Mäusemahlzeit" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c27" onclick="openLargePicture('Zoo Rostock', 'P8080799.jpg', 'c27')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080799.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080799.jpg" alt="der Schwanz hält" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c28" onclick="openLargePicture('Zoo Rostock', 'P8080821.jpg', 'c28')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080821.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080821.jpg" alt="schiefer Blick" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c29" onclick="openLargePicture('Zoo Rostock', 'P8080827.jpg', 'c29')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/P8080827.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/P8080827.jpg" alt="Hallo" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c30" onclick="openLargePicture('Zoo Rostock', 'PC221809.jpg', 'c30')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/PC221809.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/PC221809.jpg" alt="Sturmmöwe" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c31" onclick="openLargePicture('Zoo Rostock', 'PC221827.jpg', 'c31')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/PC221827.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/PC221827.jpg" alt="Affe" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c32" onclick="openLargePicture('Zoo Rostock', 'PC221833.jpg', 'c32')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/PC221833.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/PC221833.jpg" alt="nackter Mann" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c33" onclick="openLargePicture('Zoo Rostock', 'PC221858.jpg', 'c33')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/PC221858.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/PC221858.jpg" alt="Reinigung" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c34" onclick="openLargePicture('Zoo Rostock', 'PC221901.jpg', 'c34')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/PC221901.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/PC221901.jpg" alt="Krokodilkopf" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c35" onclick="openLargePicture('Zoo Rostock', 'PC221904.jpg', 'c35')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/PC221904.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/PC221904.jpg" alt="Krokodilrumpf" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c36" onclick="openLargePicture('Zoo Rostock', 'PC221907.jpg', 'c36')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/PC221907.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/PC221907.jpg" alt="Krokodile" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c37" onclick="openLargePicture('Zoo Rostock', 'PC221914.jpg', 'c37')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/PC221914.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/PC221914.jpg" alt="Qualle" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c38" onclick="openLargePicture('Zoo Rostock', 'PC221916.jpg', 'c38')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/PC221916.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/PC221916.jpg" alt="buntes Korallenriff" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c39" onclick="openLargePicture('Zoo Rostock', 'PC221919.jpg', 'c39')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/PC221919.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/PC221919.jpg" alt="buntes Korallenriff" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c40" onclick="openLargePicture('Zoo Rostock', 'PC221923.jpg', 'c40')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/PC221923.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/PC221923.jpg" alt="Mahlzeit" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 				<div id="c41" onclick="openLargePicture('Zoo Rostock', 'PC221938.jpg', 'c41')" class="galeriecontainer">
-					<img src="Zoo Rostock/thumb/PC221938.jpg" alt="OLYMPUS DIGITAL CAMER" width="130" height="100" >
+					<img src="Zoo Rostock/thumb/PC221938.jpg" alt="Lemur" width="130" height="100" >
 					<div class="bildbeschreibung"> </div>
 				</div>
 
