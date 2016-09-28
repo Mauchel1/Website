@@ -158,10 +158,20 @@ main {
 	opacity: 1;
 }
 
+.galeriecontainer:hover .bildbeschreibung {
+	display: block;
+}
+
+b {
+	color: black;
+	padding: 8px;
+	background-color: #4D7CA2
+}
+
 .bildbeschreibung {
 	display: none;
-	padding: 8px;
 	text-align: center;
+	margin-top: -50%;
 }
 
 .galeriecontainer img {
