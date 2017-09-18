@@ -30,18 +30,27 @@ body {
 }
 
 .navigation {
-	z-index: 3;
 	position:absolute;
+  color: #001663;
 	margin: 15px;
 	padding: 5px;
-	background-color: rgba(50,50,150,0.8);
+	background-color: rgb(77,124,162);
 	right: 5px;
 	text-align: right;
 	cursor: pointer;
+	z-index: 2;
 }
 
 .navigation:hover {
-	background-color: rgb(150,50,150);
+	background-color: #4AA192;
+}
+
+.navigation a {
+  color: #001663;
+}
+
+.navigation li a:hover {
+  background-color: #4D7CA2;
 }
 
 ul {
@@ -59,7 +68,7 @@ li a {
 }
 
 li a:hover {
-  background-color: rgb(50,150,150);
+  background-color: #4AA192;
 }
 
 main {
