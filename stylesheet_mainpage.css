@@ -7,7 +7,8 @@ body {
 }
 
 .background {
-	background-color: rgb(185,185,256);
+	background-color: rgb(0, 0, 0);
+	background-color: rgba(0, 0, 0, 0.9);
 	background-image: url("background.jpg");
 	background-size: cover;
 	background-position: center;
@@ -22,13 +23,14 @@ body {
 
 .background_overlay {
 	position:absolute;
-	background-color: rgba(150,150,150,0.2);
+	background-color: rgba(0,0,0,0.8);
 	z-index: -1;
 	width: 100%;
 	height: 100%;
 }
 
 .navigation {
+	z-index: 3;
 	position:absolute;
 	margin: 15px;
 	padding: 5px;
@@ -61,13 +63,53 @@ li a:hover {
 }
 
 main {
+	position: absolute;
 	margin: 0 auto;
 	margin-bottom: 68px;
-	margin-top: 40vh;
+	margin-top: 4vh;
+	margin-left: 5%;
+	margin-right: 5%;
 	text-align: center;
 	width: 90%;
+	height: 80vh;
+}
+
+.logo {
+	max-height: 25vh;
+	max-width: 25vh;
+	margin-left: 50%;
+}
+
+.logo img {
+	width: 100%;
+  height: 100%;
+	margin-left: -100%;
+}
+
+.container_main {
+	height: 66vh;
+}
+
+.container_main img {
+	display: block;
+	width: 80%;
+	margin: auto;
+	border-radius: 18px;
+	max-height: 40vh;
+	box-sizing: border-box;
+}
+
+.container {
+	width: 50%;
+	max-height: 80%;
+	float: left;
 }
 	
+.container:hover {
+	transform: scale(1.1, 1.1);
+	transition: 1.5s ease;
+}
+
 footer {
 	position: absolute;
 	bottom: 0px;
@@ -99,6 +141,6 @@ a:hover {
 	color: blue;
 }
 
-h1{
-	color: black;
+h1 {
+	color: silver;
 }
