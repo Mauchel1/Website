@@ -11,7 +11,7 @@ body {
 header {
 	width: 100%;
 	min-height: 50px;
-    background-color: #82CABE;
+  background-color: #38598E;
 }
 
 .seitentitel{
@@ -147,6 +147,7 @@ main {
 	background-color: gray;
 	float: left;
 	width: 16%;
+	overflow: hidden;
 	height: 150px; /* wird eh von JS überschrieben */
 }
 
@@ -156,6 +157,8 @@ main {
 
 .galeriecontainer:hover img {
 	opacity: 1;
+	transform: scale(1.2, 1.2);
+	transition: 1.5s ease;
 }
 
 .galeriecontainer:hover .bildbeschreibung {
