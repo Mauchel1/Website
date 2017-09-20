@@ -7,6 +7,7 @@
 		<title>D. Friedrich - Kontakt</title>
 		<link rel="stylesheet" href ="stylesheet.css" />
 		<link rel="icon" href ="logo.png" />
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 	</head>
 
 	<body>
@@ -30,8 +31,18 @@
 		
 		<main>
 			<h1>Kontaktformular</h1>
-			
-			<input type="submit" value"Sinnloser Knopf" class"btn" />
+			<div class="kontaktarea">
+				<form action="confirmation.php" method="POST">
+					<label for="name">Name</label><br>
+					<input type="text" id="name" name="name" placeholder="Dein Name..."><br>
+					<label for="betreff">Betreff</label><br>
+					<input type="text" id="betreff" name="betreff" placeholder="Betreff..."><br>
+					<label for="text">Nachricht</label><br>
+					<textarea name="nachricht" id="nachricht" placeholder="Deine Nachricht..."></textarea><br>
+					<div class="g-recaptcha" data-sitekey="6Lc3MDEUAAAAAE9zGRrW-TgP1arwg5xvfOR4mYWA" data-theme="light"></div>
+					<input type="submit" value="Senden">
+				</form>
+			</div>
 		</main>
 		
 		<footer>

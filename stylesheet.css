@@ -118,6 +118,33 @@ main {
 	padding-bottom: 68px;
 }
 	
+textarea {
+    width: 80%;
+    height: 150px;
+    margin: 8px 0;
+    padding: 12px 20px;
+    box-sizing: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    resize: none;
+}
+
+input[type=text], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: inline-block;
+}
+
+.kontaktarea {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+	
 .galerieheader {
 	text-align: center;
 	padding: 15px;
