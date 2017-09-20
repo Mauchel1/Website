@@ -45,9 +45,15 @@
         // If CAPTCHA is successfully completed...
 				
 				$name = $_POST["name"];
+				$header = "Von: Kontakt <$name>";
 				$betreff = $_POST["betreff"];
 				$nachricht = $_POST['nachricht'];
-        // Paste mail function or whatever else you want to happen here!
+				$empfaenger = "kontakt@dfriedrich.de";
+				
+				$main = "Kontaktanfrage von {$name} auf DFriedrich.de \n\nBetreff: {$betreff} \n\nNachricht: \n\n{$nachricht}";
+        
+				mail ($empfaenger, "Kontaktanfrage auf DFriedrich.de", $main);
+				
         echo '<br>Danke ';
 				echo $name;
 				echo ', deine Nachricht wurde versendet!<br><br>';
