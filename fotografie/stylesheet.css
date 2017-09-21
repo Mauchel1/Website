@@ -163,6 +163,7 @@ main {
 
 .galeriecontainer:hover .bildbeschreibung {
 	display: block;
+	transform: scale(1.0, 1.0);
 }
 
 b {
