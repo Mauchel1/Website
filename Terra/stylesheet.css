@@ -161,7 +161,6 @@ main {
 .blog {
 	margin: auto;
 	display: block;
-	width: 70%;
 	max-width: 800px; 
 	margin-bottom: 15px;
 }
