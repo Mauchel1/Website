@@ -27,3 +27,17 @@ function togglePics() {
 		}
 	}
 }
+
+function toggleStatics(geschlecht) {
+	var geschlechtID;
+	if (geschlecht == 1) {
+		geschlechtID = "statisticEr";
+	} else {
+		geschlechtID = "statisticSie";
+	}
+	if (document.getElementById(geschlechtID).style.display.match ("block")) {
+		document.getElementById(geschlechtID).style.display = "none";
+	} else {
+		document.getElementById(geschlechtID).style.display = "block";
+	}
+}

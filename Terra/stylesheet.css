@@ -199,6 +199,32 @@ main {
 	max-width: 100%;
 }
 
+.statisticBody {
+	width: 100%;
+}
+
+.statisticBodyHead {
+	
+}
+
+.statisticColumn {
+	float: left;
+	margin: auto;
+	margin-top: 20px;
+	width: 50%;
+	min-width: 200px;
+}
+
+.staticBild img {
+	max-width: 94%;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+.statisticDeep {
+	display: none;
+}
+
 b {
 	color: black;
 	padding: 8px;
