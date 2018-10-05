@@ -223,6 +223,7 @@ main {
 
 .statisticDeep {
 	display: none;
+	padding-bottom: 68px; 
 }
 
 b {

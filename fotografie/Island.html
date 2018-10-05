@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="de">
+
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+		<meta charset="utf-8" />
+		<title>D. Friedrich - Fotografie</title>
+		<link rel="stylesheet" href ="stylesheet.css" />
+		<link rel="icon" href ="../logo.png" />
+		<script language="javascript" type="text/javascript" src="javascript.js"></script>
+	</head>
+
+	<body onkeydown="keypressed(event)" onload="bildcontainerbreite()" onresize="resize()">
+		
+		<header>
+			<div class="seitentitel">
+				Fotografie
+			</div>
+			<nav onclick="toggleNav()" class="navigation">
+				Menü	
+				<ul id="hauptnav">
+					<li><a href="fotografie.html"> Fotografie </a></li>
+					<li><a href="../terra/baublog.html"> Terrarium </a></li>
+					<li><a href="../stuff.html"> stuff </a></li>
+					<li><a href="../about_me.html"> Über mich </a></li>
+				</ul>
+			</nav>
+			<nav class="home">
+				<a href="../index.html"> <img src="home.png" width="30" height="30" 
+				onmouseover="src='go_home.png'" onmouseout="src='home.png'" onmousedown="src='home_pfeil.png'"
+				alt="homebutton" /> </a>
+			</nav>
+			<div class="fotoNavWrapper">
+				<nav>
+					<ul class="fotonav">
+						<li class="dropdown">
+							<a href="#" class="dropbtn">Hamburg</a>
+							<div class="dropdown-content">
+								<a href="Hamburg_Botanischer Garten.html">Botanischer Garten</a>
+								<a href="Hamburg_Winter.html">Winter</a>
+							</div>
+						</li>
+						<li><a href="Island.html">Island</a></li>
+						<li class="dropdown">
+							<a href="#" class="dropbtn">Namibia</a>
+							<div class="dropdown-content">
+								<a href="Namibia_Tiere.html">Tiere</a>
+								<a href="Namibia_Ghosttown.html">Ghosttown</a>
+								<a href="Namibia_Verschiedenes.html">Verschiedenes</a>
+							</div>
+						<li><a href="Schweden.html">Schweden</a></li>
+						<li><a href="Zoo Rostock.html">Zoo Rostock</a></li>
+						<li><a href="Allerlei.html">Allerlei</a></li>
+						</li>
+						<div class="clear"></div>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		
+		<main>
+			<div class="galerieheader">
+				Island
+			</div>
+			<div class="galerie">
+				<div id="c1" onclick="openLargePicture('Island', 'P8110036.jpg', 'c1')" class="galeriecontainer">
+					<img src="Island/thumb/P8110036.jpg" alt="Weißes Wasser" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c2" onclick="openLargePicture('Island', 'P8110044.jpg', 'c2')" class="galeriecontainer">
+					<img src="Island/thumb/P8110044.jpg" alt="blauer See" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c3" onclick="openLargePicture('Island', 'P8110060.jpg', 'c3')" class="galeriecontainer">
+					<img src="Island/thumb/P8110060.jpg" alt="dampfender Bach" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c4" onclick="openLargePicture('Island', 'P8110122.jpg', 'c4')" class="galeriecontainer">
+					<img src="Island/thumb/P8110122.jpg" alt="mineralhaltiges Wasser" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c5" onclick="openLargePicture('Island', 'P8110214.jpg', 'c5')" class="galeriecontainer">
+					<img src="Island/thumb/P8110214.jpg" alt="Wolkenbrüche" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c6" onclick="openLargePicture('Island', 'P8110216.jpg', 'c6')" class="galeriecontainer">
+					<img src="Island/thumb/P8110216.jpg" alt="angestrahlte Bergkette" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c7" onclick="openLargePicture('Island', 'P8110224.jpg', 'c7')" class="galeriecontainer">
+					<img src="Island/thumb/P8110224.jpg" alt="Abendstimmung" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c8" onclick="openLargePicture('Island', 'P8120272.jpg', 'c8')" class="galeriecontainer">
+					<img src="Island/thumb/P8120272.jpg" alt="am Fuß des Wasserfalls" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c9" onclick="openLargePicture('Island', 'P8120441.jpg', 'c9')" class="galeriecontainer">
+					<img src="Island/thumb/P8120441.jpg" alt="Gullfoss - zweite Stufe" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c10" onclick="openLargePicture('Island', 'P8130481.jpg', 'c10')" class="galeriecontainer">
+					<img src="Island/thumb/P8130481.jpg" alt="klares Flusswasser" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c11" onclick="openLargePicture('Island', 'P8130493.jpg', 'c11')" class="galeriecontainer">
+					<img src="Island/thumb/P8130493.jpg" alt="Strokkur Geysir" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c12" onclick="openLargePicture('Island', 'P8130636.jpg', 'c12')" class="galeriecontainer">
+					<img src="Island/thumb/P8130636.jpg" alt="Strokkur Geysir vor der Explosion" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c13" onclick="openLargePicture('Island', 'P8130743.jpg', 'c13')" class="galeriecontainer">
+					<img src="Island/thumb/P8130743.jpg" alt="Islandpferde" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c14" onclick="openLargePicture('Island', 'P8130825.jpg', 'c14')" class="galeriecontainer">
+					<img src="Island/thumb/P8130825.jpg" alt="Seljalandsfoss" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c15" onclick="openLargePicture('Island', 'P8130886.jpg', 'c15')" class="galeriecontainer">
+					<img src="Island/thumb/P8130886.jpg" alt="Wollende Schafe" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c16" onclick="openLargePicture('Island', 'P8130890.jpg', 'c16')" class="galeriecontainer">
+					<img src="Island/thumb/P8130890.jpg" alt="Mensch im Fluss?" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c17" onclick="openLargePicture('Island', 'P8130902.jpg', 'c17')" class="galeriecontainer">
+					<img src="Island/thumb/P8130902.jpg" alt="Seljalandsfoss von hinten" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c18" onclick="openLargePicture('Island', 'P8131022.jpg', 'c18')" class="galeriecontainer">
+					<img src="Island/thumb/P8131022.jpg" alt="dampfender Wasserfall" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c19" onclick="openLargePicture('Island', 'P8141112.jpg', 'c19')" class="galeriecontainer">
+					<img src="Island/thumb/P8141112.jpg" alt="Meeresbrausen" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c20" onclick="openLargePicture('Island', 'P8141136.jpg', 'c20')" class="galeriecontainer">
+					<img src="Island/thumb/P8141136.jpg" alt="Papageitaucher im Hagel" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c21" onclick="openLargePicture('Island', 'P8141151.jpg', 'c21')" class="galeriecontainer">
+					<img src="Island/thumb/P8141151.jpg" alt="einsamer Papageitaucher " width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c22" onclick="openLargePicture('Island', 'P8141274.jpg', 'c22')" class="galeriecontainer">
+					<img src="Island/thumb/P8141274.jpg" alt="zerklüfteter Flusslauf" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c23" onclick="openLargePicture('Island', 'P8151376.jpg', 'c23')" class="galeriecontainer">
+					<img src="Island/thumb/P8151376.jpg" alt="Basaltsäulen" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c24" onclick="openLargePicture('Island', 'P8151431.jpg', 'c24')" class="galeriecontainer">
+					<img src="Island/thumb/P8151431.jpg" alt="Vatnajökull " width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c25" onclick="openLargePicture('Island', 'P8151458.jpg', 'c25')" class="galeriecontainer">
+					<img src="Island/thumb/P8151458.jpg" alt="Spiegelwasser" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c26" onclick="openLargePicture('Island', 'P8151518.jpg', 'c26')" class="galeriecontainer">
+					<img src="Island/thumb/P8151518.jpg" alt="Vatnajökull - der Gletscher" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c27" onclick="openLargePicture('Island', 'P8151588.jpg', 'c27')" class="galeriecontainer">
+					<img src="Island/thumb/P8151588.jpg" alt="Svartifoss - der Schwarze" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c28" onclick="openLargePicture('Island', 'P8151646.jpg', 'c28')" class="galeriecontainer">
+					<img src="Island/thumb/P8151646.jpg" alt="Vatnajökull mit Lagune" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c29" onclick="openLargePicture('Island', 'P8151693.jpg', 'c29')" class="galeriecontainer">
+					<img src="Island/thumb/P8151693.jpg" alt="Eisberg voraus" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c30" onclick="openLargePicture('Island', 'P8151739.jpg', 'c30')" class="galeriecontainer">
+					<img src="Island/thumb/P8151739.jpg" alt="was guckst du so" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c31" onclick="openLargePicture('Island', 'P8151761.jpg', 'c31')" class="galeriecontainer">
+					<img src="Island/thumb/P8151761.jpg" alt="kalte Landschaft" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c32" onclick="openLargePicture('Island', 'P8151766.jpg', 'c32')" class="galeriecontainer">
+					<img src="Island/thumb/P8151766.jpg" alt="Gletscherlagune" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c33" onclick="openLargePicture('Island', 'P8151786.jpg', 'c33')" class="galeriecontainer">
+					<img src="Island/thumb/P8151786.jpg" alt="angestrahler Gletscher" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c34" onclick="openLargePicture('Island', 'P8151790.jpg', 'c34')" class="galeriecontainer">
+					<img src="Island/thumb/P8151790.jpg" alt="Jökulsárlón " width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c35" onclick="openLargePicture('Island', 'P8151993.jpg', 'c35')" class="galeriecontainer">
+					<img src="Island/thumb/P8151993.jpg" alt="Wiese am Abend" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c36" onclick="openLargePicture('Island', 'P8162181.jpg', 'c36')" class="galeriecontainer">
+					<img src="Island/thumb/P8162181.jpg" alt="Kraft des Wassers" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c37" onclick="openLargePicture('Island', 'P8172349.jpg', 'c37')" class="galeriecontainer">
+					<img src="Island/thumb/P8172349.jpg" alt="kurze Pause" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c38" onclick="openLargePicture('Island', 'P8172400.jpg', 'c38')" class="galeriecontainer">
+					<img src="Island/thumb/P8172400.jpg" alt="der Boden qualmt" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c39" onclick="openLargePicture('Island', 'P8172455.jpg', 'c39')" class="galeriecontainer">
+					<img src="Island/thumb/P8172455.jpg" alt="und noch ein Vulkan" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c40" onclick="openLargePicture('Island', 'P8172478.jpg', 'c40')" class="galeriecontainer">
+					<img src="Island/thumb/P8172478.jpg" alt="rotes Gras" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c41" onclick="openLargePicture('Island', 'P8172573.jpg', 'c41')" class="galeriecontainer">
+					<img src="Island/thumb/P8172573.jpg" alt="natürliche Lavahöhle" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c42" onclick="openLargePicture('Island', 'P8182618.jpg', 'c42')" class="galeriecontainer">
+					<img src="Island/thumb/P8182618.jpg" alt="gleich wird es nass" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c43" onclick="openLargePicture('Island', 'P8182622.jpg', 'c43')" class="galeriecontainer">
+					<img src="Island/thumb/P8182622.jpg" alt="Strandfunde" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c44" onclick="openLargePicture('Island', 'P8182685.jpg', 'c44')" class="galeriecontainer">
+					<img src="Island/thumb/P8182685.jpg" alt="der mächtige Dettifoss" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c45" onclick="openLargePicture('Island', 'P8182688.jpg', 'c45')" class="galeriecontainer">
+					<img src="Island/thumb/P8182688.jpg" alt="Überlebenskünstler" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c46" onclick="openLargePicture('Island', 'P8182692.jpg', 'c46')" class="galeriecontainer">
+					<img src="Island/thumb/P8182692.jpg" alt="ein Teil des Sellfoss" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c47" onclick="openLargePicture('Island', 'P8182728.jpg', 'c47')" class="galeriecontainer">
+					<img src="Island/thumb/P8182728.jpg" alt="warme Dusche gefällig?" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c48" onclick="openLargePicture('Island', 'P8192743.jpg', 'c48')" class="galeriecontainer">
+					<img src="Island/thumb/P8192743.jpg" alt="hügelige Laudschaft" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c49" onclick="openLargePicture('Island', 'P8192798.jpg', 'c49')" class="galeriecontainer">
+					<img src="Island/thumb/P8192798.jpg" alt="kein Trinkwasser" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c50" onclick="openLargePicture('Island', 'P8192833.jpg', 'c50')" class="galeriecontainer">
+					<img src="Island/thumb/P8192833.jpg" alt="Lavafelder" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c51" onclick="openLargePicture('Island', 'P8192842.jpg', 'c51')" class="galeriecontainer">
+					<img src="Island/thumb/P8192842.jpg" alt="Lavafelder" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c52" onclick="openLargePicture('Island', 'P8192851.jpg', 'c52')" class="galeriecontainer">
+					<img src="Island/thumb/P8192851.jpg" alt="Vulkankrater" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c53" onclick="openLargePicture('Island', 'P8192873.jpg', 'c53')" class="galeriecontainer">
+					<img src="Island/thumb/P8192873.jpg" alt="Määäh" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c54" onclick="openLargePicture('Island', 'P8192895.jpg', 'c54')" class="galeriecontainer">
+					<img src="Island/thumb/P8192895.jpg" alt="gleich bricht er aus" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c55" onclick="openLargePicture('Island', 'P8192901.jpg', 'c55')" class="galeriecontainer">
+					<img src="Island/thumb/P8192901.jpg" alt="Vulkanlandschaft" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c56" onclick="openLargePicture('Island', 'P8200031.jpg', 'c56')" class="galeriecontainer">
+					<img src="Island/thumb/P8200031.jpg" alt="Klavier mit Klasse" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c57" onclick="openLargePicture('Island', 'P8200065.jpg', 'c57')" class="galeriecontainer">
+					<img src="Island/thumb/P8200065.jpg" alt="Godafoss" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c58" onclick="openLargePicture('Island', 'P8200093.jpg', 'c58')" class="galeriecontainer">
+					<img src="Island/thumb/P8200093.jpg" alt="Rot mit Charme" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c59" onclick="openLargePicture('Island', 'P8200157.jpg', 'c59')" class="galeriecontainer">
+					<img src="Island/thumb/P8200157.jpg" alt="Minkiwal" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c60" onclick="openLargePicture('Island', 'P8200243.jpg', 'c60')" class="galeriecontainer">
+					<img src="Island/thumb/P8200243.jpg" alt="Buckelwal" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c61" onclick="openLargePicture('Island', 'P8200250.jpg', 'c61')" class="galeriecontainer">
+					<img src="Island/thumb/P8200250.jpg" alt="Buckelwalflosse" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c62" onclick="openLargePicture('Island', 'P8200325.jpg', 'c62')" class="galeriecontainer">
+					<img src="Island/thumb/P8200325.jpg" alt="Möwen füttern" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c63" onclick="openLargePicture('Island', 'P8200353.jpg', 'c63')" class="galeriecontainer">
+					<img src="Island/thumb/P8200353.jpg" alt="Schwebende Möwe" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c64" onclick="openLargePicture('Island', 'P8210488.jpg', 'c64')" class="galeriecontainer">
+					<img src="Island/thumb/P8210488.jpg" alt="Weg durch Moor" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c65" onclick="openLargePicture('Island', 'P8210560.jpg', 'c65')" class="galeriecontainer">
+					<img src="Island/thumb/P8210560.jpg" alt="Robbenpause" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c66" onclick="openLargePicture('Island', 'P8210582.jpg', 'c66')" class="galeriecontainer">
+					<img src="Island/thumb/P8210582.jpg" alt="Frei wie ein Vogel" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c67" onclick="openLargePicture('Island', 'P8210589.jpg', 'c67')" class="galeriecontainer">
+					<img src="Island/thumb/P8210589.jpg" alt="Totholz" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c68" onclick="openLargePicture('Island', 'P8220647.jpg', 'c68')" class="galeriecontainer">
+					<img src="Island/thumb/P8220647.jpg" alt="dampfender Fluss" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c69" onclick="openLargePicture('Island', 'P8220671.jpg', 'c69')" class="galeriecontainer">
+					<img src="Island/thumb/P8220671.jpg" alt="Hraunfossar " width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c70" onclick="openLargePicture('Island', 'P8220677.jpg', 'c70')" class="galeriecontainer">
+					<img src="Island/thumb/P8220677.jpg" alt="Hraunfossar " width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c71" onclick="openLargePicture('Island', 'P8220711.jpg', 'c71')" class="galeriecontainer">
+					<img src="Island/thumb/P8220711.jpg" alt="Gras vor Hraunfossar " width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c72" onclick="openLargePicture('Island', 'P8220764.jpg', 'c72')" class="galeriecontainer">
+					<img src="Island/thumb/P8220764.jpg" alt="Blick Richtung Glymur" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c73" onclick="openLargePicture('Island', 'P8220787.jpg', 'c73')" class="galeriecontainer">
+					<img src="Island/thumb/P8220787.jpg" alt="Sicht von Glymur" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c74" onclick="openLargePicture('Island', 'P8220823.jpg', 'c74')" class="galeriecontainer">
+					<img src="Island/thumb/P8220823.jpg" alt="Wandern an der hohen Kante" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c75" onclick="openLargePicture('Island', 'P8220849.jpg', 'c75')" class="galeriecontainer">
+					<img src="Island/thumb/P8220849.jpg" alt="Sonnenuntergang" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+				<div id="c76" onclick="openLargePicture('Island', 'P8220861.jpg', 'c76')" class="galeriecontainer">
+					<img src="Island/thumb/P8220861.jpg" alt="bester Zeltplatz" width="130" height="100" >
+					<div class="bildbeschreibung"> </div>
+				</div>
+			</div>
+			<div class="galeriefooter">
+				<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Lizenzvertrag" 
+					style="border-width:0" src="cc.png" /></a>
+				<br />Alle Bilder sind von <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">D. Friedrich</span> 
+				lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+				Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International Lizenz</a>.
+				<br> Für nähere Infos zur Lizenz auf das Lizenzlogo klicken. 
+			</div>
+		</main>
+		
+		<div id="galerievollbildhintergrund" onclick="closeLargePicture()" class="galerievollbildhintergrund">
+			<div id="galerievollbildcontainer" class="galerievollbildcontainer">
+				<img id="pl" onclick="lastPicture()" src="pfeil_links.png">
+				<img id="pr" onclick="nextPicture()" src="pfeil_rechts.png">
+			</div>
+			<div class="bildunterschrift" id="vollbildunterschrift">
+			</div>
+		</div>
+		
+		<footer>
+			<div class="footer_links">
+				<p> <small> 
+				<a href="../impressum.html"> Impressum </a>
+				<br><a href="../kontakt.html"> Kontakt </a> </small> </p>
+			</div>
+			<div class="footer_rechts">
+			<p> <small>   
+				<br>&copy Copyright by D. Friedrich</small> </p>
+			</div>
+		</footer>
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-84931807-1', 'auto');
+			ga('send', 'pageview');
+
+		</script>
+		
+ 	</body>
+</html>
