@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="de">
+
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+		<meta charset="utf-8" />
+		<title>D. Friedrich - Imkerei</title>
+		<link rel="stylesheet" href ="stylesheet.css" />
+		<link rel="icon" href ="../logo.png" />
+	</head>
+
+	<body>
+		
+		
+		<header>
+			<div class="seitentitel">
+				Imkerei
+			</div>
+			<nav onclick="toggleNav()" class="navigation">
+				Menü
+				<ul id="hauptnav">
+					<li><a href="../fotografie/fotografie.html"> Fotografie </a></li>
+					<li><a href="imkerei.html"> Imkerei </a></li>
+					<li><a href="../terra/baublog.html"> Terrarium </a></li>
+					<li><a href="../stuff.html"> stuff </a></li>
+					<li><a href="../about_me.html"> Über mich </a></li>
+				</ul>
+			</nav>
+			<nav class="home">
+				<a href="../index.html"> <img src="home.png" width="30" height="30" 
+				onmouseover="src='go_home.png'" onmouseout="src='home.png'" onmousedown="src='home_pfeil.png'"
+				alt="homebutton" /> </a>
+			</nav>
+		</header>
+		
+		<main>
+		
+			<div class="blog">
+				<div class="blogheader">
+					<h2>Der Anfang</h2>
+				</div>
+				<div class="blogtext">
+					Hier geht es um mein Hobby der Imkerei. Seit dem Sommer 2022 habe eigene Bienen. Zunächst nur 2 Völker, die ich anschließend auf 4-8 vermehrt habe.
+					Meine Bienen stehen an zwei Standorten. Nach einem Bastelprojekt im Winter 2022 bin ich im Besitz zweier Stockwaagen nach Anleitung von <a href="https://beelogger.de/"> Beelogger </a>. 
+					An dieser Stelle auch ein großes Shoutout an die Community von Beelogger!
+					<br>
+					Auch auf der <a href="https://beelogger.de/beeloggermap/"> BeeloggerMap </a> ist einer meiner beiden Stände in Hamburg zu finden. 
+				</div>
+				<div class="blogheader">
+						<h2>Daten der Stockwaage</h2>
+					</div>
+
+				<div class="statistics">
+					<div class="container4statistics">
+						<h2> Temperatur </h2>
+						<iframe width="470" height="280" style="border: 2px solid #cccccc;" src="https://thingspeak.com/channels/1915738/widgets/974086"></iframe>
+					</div>
+					<div class="container4statistics">
+						<h2> Gewicht </h2>
+						<iframe width="470" height="280" style="border: 2px solid #cccccc;" src="https://thingspeak.com/channels/1915738/widgets/974088"></iframe>
+					</div>
+					<div class="container4statistics">
+						<h2> Gewichtsentwicklung </h2>
+						<iframe width="470" height="280" style="border: 2px solid #cccccc;" src="https://thingspeak.com/apps/matlab_visualizations/483278"></iframe>
+					</div>
+					<div class="container4statistics">
+						<h2> Außentemperatur und Gewicht </h2>
+						<iframe width="470" height="280" style="border: 2px solid #cccccc;" src="https://thingspeak.com/apps/matlab_visualizations/501745"></iframe>
+					</div>
+					<div class="container4statistics">
+						<h2> Außentemperatur und Gewicht - Heute</h2>
+						<iframe width="470" height="280" style="border: 2px solid #cccccc;" src="https://thingspeak.com/apps/matlab_visualizations/483279"></iframe>
+					</div>
+					<div class="container4statistics">
+						<h2> Gewicht der letzten 5 Tage</h2>
+						<iframe width="470" height="280" style="border: 1px solid #cccccc;" src="https://thingspeak.com/apps/matlab_visualizations/591586"></iframe>
+					</div>			<div class="container4statistics">
+						<h2> Min-/Max-Temperatur und Max-Gewicht</h2>
+						<iframe width="470" height="280" style="border: 1px solid #cccccc;" src="https://thingspeak.mathworks.com/apps/matlab_visualizations/591588"></iframe>
+					</div>
+				</div>
+				<br>
+				
+				<div class="blogtext2">
+					Die Daten meiner Stockwaage auf der Beelogger Website lassen sich <a href="https://community.beelogger.de/Mauchel1/Duo1/beelogger_show.php?csvdatei=month.csv"> HIER </a> detailierter betrachten.
+					<div class="frame">
+						<iframe src="https://community.beelogger.de/Mauchel1/Duo1/beelogger_show.php?csvdatei=month.csv" width="90%" height="600" title="Stockwaage Duo1"></iframe>
+					</div>
+				</div>
+				<div class="blogtext2">
+					Und <a href="https://community.beelogger.de/Mauchel1/beelogger_mobileWatch.php"> HIER </a> nochmal die wichtigsten Daten in einfachen Diagrammen zusammengefasst:
+					<div class="frame">
+						<iframe src="https://community.beelogger.de/Mauchel1/beelogger_mobileWatch.php" width="90%" height="600" title="Stockwaage Duo1"></iframe>
+					</div>
+				</div>
+
+			</div>
+		<?php echo("Hello world");?>
+				
+		</main>
+		
+		<footer>
+			<div class="footer_links">
+				<p> <small> 
+				<a href="impressum.html"> Impressum </a>
+				<br><a href="kontakt.html"> Kontakt </a> </small> </p>
+			</div>
+			<div class="footer_rechts">
+			<p> <small>   
+				<br>&copy Copyright by D. Friedrich</small> </p>
+			</div>
+		</footer>
+
+		<script>
+			function toggleNav() {
+			if (document.getElementById("hauptnav").style.display.match ("block")) {
+				document.getElementById("hauptnav").style.display = "none";
+			} else {
+				document.getElementById("hauptnav").style.display = "block";
+				}
+			}
+		</script>
+		
+ 	</body>
+</html>
